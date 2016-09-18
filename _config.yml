@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://sammo3182.github.io
+title: Yue Hu
+email: yue-hu-1@uiowa.edu
+author:  Yue Hu
+description: > # "Yue Hu's Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social: 
+  - icon: institution
+    title: Department
+    url: https://clas.uiowa.edu/polisci/
+  - icon: github
+    title: github
+    url: https://github.com/sammo3182
+  - icon: envelope-o
+    title: email
+    url: mailto:yue-hu-1@uiowa.edu
+  - icon: file-pdf-o
+    title: cv
+    url: https://www.dropbox.com/s/4spv6yjmajm67m1/HU_CV.pdf?dl=0

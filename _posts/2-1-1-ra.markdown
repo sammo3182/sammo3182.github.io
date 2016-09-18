@@ -1,0 +1,20 @@
+---
+layout: default
+img: present.jpg
+category: Employment
+title: EMPLOYMENT (RESEARCH-BASED)
+description: Conferences Yue Hu participated in.
+---
+
+### 2015 ~ Present
+Statistical Consultant, Iowa Social Science Research Center, University of Iowa.
+
+### 2015 ~ 2016
+Research Assistant, empirical analysis and paper writing, with Professors Vicki Claypool, William Reisinger, Marina Zaloznaya, Dept. of Political Science & Dept. of Sociology, University of Iowa, U.S.A.
+
+### 2015 May-June
+Research Assistant, data collection and management for SWIID updates, with Professor Frederick Solt, Dept. of Political Science, University of Iowa, U.S.A.
+
+
+### 2013 May-August
+Research Assistant, survey data collection for East Asian countries, with Professor John Fuh-sheng Hsieh. Dept. of Political Science, University of South Carolina, U.S.A.
