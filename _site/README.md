@@ -1,2 +1,2 @@
-# sammo3182.github.io
+# Welcome!
 Yue Hu's Personal Page
