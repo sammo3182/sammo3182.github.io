@@ -11,7 +11,7 @@ description: Conferences Yue Hu participated.
 * ``Affirmative Inaction: Education, Social Mobility, and Ethnic Inequality in China.'' Paper presented with Shuai Jin at **MPSA**, Chicago, April, 16-9.
 
 ### 2013
-* ``Connecting Nationalism and Political Transition:A Study of Nationalist Influence on Political Transition based on the China Case.'' Paper presented at University of South Carolina Inaugural Graduate Student Conference, Columbia, South Carolina.
+* ``Connecting Nationalism and Political Transition:A Study of Nationalist Influence on Political Transition based on the China Case.'' Paper presented at **University of South Carolina Inaugural Graduate Student Conference**, Columbia, South Carolina.
 
 ### 2012
 * ``Twofold-Affecting Model: A Cultural Pattern of Social Change from a Comparative Study between the China and Russia cases.'' Paper presented at the **American Association for Chinese Studies** 54<sup>th</sup> Annual Conference, Georgia Tech, Atlanta, October 12-4.

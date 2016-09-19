@@ -6,10 +6,13 @@ title: EMPLOYMENT (TEACHING-BASED)
 description: Yue Hu's experience as a teaching assistant.
 ---
 
-### 2016
-Instructor. Course: **Hello, R: A Introduction To R**, Iowa Social Science Research Center, University of Iowa.
+### 2015-2016
 
-Instructor. Course: **Math Camp**, Department of Political Science, Univeristy of Iowa.
+Instructor. Course: **Hello, R: A Introduction To R**, Iowa Social Science Research Center, University of Iowa ([slides](https://rpubs.com/sammo3182)).
+
+### 2016
+
+Instructor. Course: **Math Camp**, Department of Political Science, Univeristy of Iowa ([slides](https://rpubs.com/sammo3182/mathcamp), [syllabus](doc/syllabus_math_camp_2016.pdf)).
 
 ### 2015 Jan.-May
 Teaching Assistant, instructor of discussion sections. Course: **Introduction to Political Behavior** (030:050), University of Iowa.
