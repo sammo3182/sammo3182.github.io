@@ -2,11 +2,11 @@
 layout: default
 img: Rlogo.png
 category: Research
-title: PACKAGE
+title: SOFTWARE
 description: Yue Hu's R packages.
 ---
 
-### `dotwhisker`
+## `dotwhisker`
 Solt, Frederick, and **Yue Hu**. 2015. dotwhisker: Dot-and-Whisker Plots of Regression Results. The Comprehensive R Archive Network (CRAN). 
 
 [![CRAN version](http://www.r-pkg.org/badges/version/dotwhisker)](https://cran.r-project.org/web/packages/dotwhisker/index.html) ![](http://cranlogs.r-pkg.org/badges/grand-total/dotwhisker)
@@ -19,12 +19,10 @@ To install:
 * the latest released version: `install.packages("dotwhisker")`.
 * the latest development version: `devtools::install_github("fsolt/dotwhisker")`.
 
-More details are available at:
+For more details, check out [the vignette](https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html)
+<br><br>
 
-[https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html](https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html)
-
-
-### `interplot`
+## `interplot`
 Solt, Frederick, and **Yue Hu**. 2015. interplot: Plot the Coefficients of Variables in Interaction Terms. The Comprehensive R Archive Network (CRAN).
 
 [![CRAN version](http://www.r-pkg.org/badges/version/interplot)](https://cran.r-project.org/web/packages/interplot/index.html) ![](http://cranlogs.r-pkg.org/badges/grand-total/interplot)
@@ -37,13 +35,11 @@ To install:
 * the latest released version: `install.packages("interplot")`.
 * the latest development version: `devtools::install_github("sammo3182/interplot")`.
 
-More details are available at:
-
-[http://cran.r-project.org/web/packages/interplot/vignettes/interplot-vignette.html](http://cran.r-project.org/web/packages/interplot/vignettes/interplot-vignette.html)
-
+For more details, check out [the vignette](http://cran.r-project.org/web/packages/interplot/vignettes/interplot-vignette.html)
+<br><br>
 
 
-### `pewdata`
+## `pewdata`
 Solt, Frederick, and **Yue Hu**. 2016. pewdata: Reproducible Retrieval of Pew Research Center Datasets. The Comprehensive R Archive Network (CRAN).
 
 [![CRAN version](http://www.r-pkg.org/badges/version/pewdata)](https://cran.r-project.org/package=pewdata) 
