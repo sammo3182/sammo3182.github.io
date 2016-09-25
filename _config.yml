@@ -6,7 +6,7 @@ url: http://sammo3182.github.io
 title: Yue Hu's Personal Page
 email: yue-hu-1@uiowa.edu
 author:  Yue Hu
-description: "Yue Hu's personal page. Yue Hu is a comparative political scientist and politicla methodologist at the University of Iowa. His research primarily focuses on political communication, political language, and quantitative methodologies."
+description: "Yue Hu's personal page. Yue Hu is a scholar in comparative political science and politicla methodologist at the University of Iowa. His research primarily focuses on political communication, political language, public opinion, and quantitative methodologies. 胡悦是美国爱荷华大学的一名比较政治学和方法论学者。其主要研究领域包括政治传播学、政治语言、公共舆论和定量分析方法。"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,16 +21,16 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social: 
-  - icon: institution
-    title: Department
-    url: https://clas.uiowa.edu/polisci/
-  - icon: github
-    title: github
-    url: https://github.com/sammo3182
+social:
   - icon: envelope-o
     title: email
     url: mailto:yue-hu-1@uiowa.edu
+  - icon: github
+    title: github
+    url: https://github.com/sammo3182
+  - icon: institution
+    title: Department
+    url: https://clas.uiowa.edu/polisci/
   - icon: file-pdf-o
     title: cv
     url: https://www.dropbox.com/s/4spv6yjmajm67m1/HU_CV.pdf?dl=0
