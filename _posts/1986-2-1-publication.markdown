@@ -7,9 +7,9 @@ description: Yue Hu's publications.
 ---
 
 ### Journal Article
-* Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101).'' *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
+* Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``Economic Inequality and Class Consciousness.'' *Journal of Politics*, 3 (2017): Forthcoming.
     
-    <sub>**Abstract**: How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? One prominent recent study, Newman, Johnston, and Lown (2015a), argues that, consistent with the confict theory, exposure to higher levels of local income inequality lead lower-income people to become more likely to reject|and higher-income people to become more likely to accept the dominant U.S. ideology of meritocracy. Here, we show that this conclusion is not supported by the study's own reported results and that even these results depend on pooling three different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.</sub><br><br>
+    <sub>**Abstract**: Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demand- ing more redistribution? One prominent recent study, Newman, Johnston, and Lown (2015), argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.</sub><br><br>
 
 * Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101).'' *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
     
@@ -30,24 +30,22 @@ description: Yue Hu's publications.
 
 ### Under Review
 
-* Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``Economic Inequality and Class Consciousness.'' 
-
-    <sub>**Abstract**: Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demanding more redistribution? One prominent recent study, \citet{Newman2015}, argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.</sub><br><br>
-
 * **Hu, Yue**, ``Strategic Communication: Why the Chinese Government Engages in Discourse about Democracy and Why It Matters.''
+* **Yue Hu**, ``Are Informal Education Facilities Effective Means for Political Propaganda? A Spatial Analysis.''
+* Vicki Claypool, William Reisinger, Marina Zaloznaya and **Yue Hu**, ``The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States.''
 
 ### Working Project
 
-* ``Language Matters: Why Do Authoritarian Governments Engage in Discourse about Democracy.''
-* ``Propaganda with Museums? A Spatial Analysis in China.''
-* ``Measure Political Desirability: An Experimental Method'' (with Wenfang Tang).
-* ``The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States'' (with Claypool, Vicki,  William Reisinger, and Marina Zaloznaya).
-* ``Emerging Empirical Methods of Political Communication Researches in the World.'' [In Chinese].
+* "Measure Political Desirability: An Experimental Method" (with Wenfang Tang).
+* "The Weight of History: Explaining the Anti-Japanese Sentiments in the Chinese Circle" (with Amy Liu).
+* "The Logic of Peaceful Rise: Revisiting the Power-Peace Relationship in International Politics" (with Ray Ou-Yang)
+* "The Popularity of Political Propaganda in Modern China: A Model of Demands" (with Zijie Shao).
+* "Niche Audience: Chinese Government’s Secret Weapon in Official Media Propaganda" (with Zijie Shao).
 
-### Other Publications
+### Magazine and Others
 
-* **Yue Hu**. ``Experiences on Document Preparation for Applications to PhD Programs of American Universities.'' [In Chinese]. *New Vision* vol.17 (2014): 37-8.
-* **Yue Hu**. ``Nothing Honored, So...'' [In Chinese]. *New Vision* vol.3 (2010): 25-6.
-* **Yue Hu**. ``Three Harmonies of Premier Zhou Enlai.'' [In Chinese]. *National Spirit*. vol. 17 (2007):45.
-* **Yue Hu**. ``Philo-mathematics: A Methodology of Politicians.'' [In Chinese]. *Beauty of Mathematics* vol. 1 (2006):157-60.
-* **Yue Hu**. ``The Greatness of Open Sources.'' [In Chinese]. *LUPA-STAR Essay Compilation* (2006):24-5.
+* ``Experiences on Document Preparation for Applications to PhD Programs of American Universities.'' [In Chinese]. *New Vision* vol.17 (2014): 37-8.
+* ``Nothing Honored, So...'' [In Chinese]. *New Vision* vol.3 (2010): 25-6.
+* ``Three Harmonies of Premier Zhou Enlai.'' [In Chinese]. *National Spirit*. vol. 17 (2007):45.
+* ``Philo-mathematics: A Methodology of Politicians.'' [In Chinese]. *Beauty of Mathematics* vol. 1 (2006):157-60.
+* ``The Greatness of Open Sources.'' [In Chinese]. *LUPA-STAR Essay Compilation* (2006):24-5.
