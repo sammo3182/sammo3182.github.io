@@ -7,6 +7,9 @@ description: Yue Hu's publications.
 ---
 
 ### Journal Article
+* Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101).'' *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
+    
+    <sub>**Abstract**: How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? One prominent recent study, Newman, Johnston, and Lown (2015a), argues that, consistent with the confict theory, exposure to higher levels of local income inequality lead lower-income people to become more likely to reject|and higher-income people to become more likely to accept the dominant U.S. ideology of meritocracy. Here, we show that this conclusion is not supported by the study's own reported results and that even these results depend on pooling three different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.</sub><br><br>
 
 * Solt, Frederick, **Yue Hu**, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101).'' *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
     
