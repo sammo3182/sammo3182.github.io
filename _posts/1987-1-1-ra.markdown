@@ -1,8 +1,8 @@
 ---
 layout: default
 img: present.jpg
-category: Employment
-title: EMPLOYMENT (RESEARCH-BASED)
+category: Research
+title: RESEARCH EXPERIENCE
 description: Conferences Yue Hu participated in.
 ---
 

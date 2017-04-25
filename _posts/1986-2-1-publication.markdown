@@ -7,19 +7,19 @@ description: Yue Hu's publications.
 ---
 
 ### Journal Article
-* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``Economic Inequality and Class Consciousness.'' *Journal of Politics*, 3 (2017): Forthcoming.
+* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "Economic Inequality and Class Consciousness." *Journal of Politics*, 3 (2017): Forthcoming.
     
     <sub>**Abstract**: Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demand- ing more redistribution? One prominent recent study, Newman, Johnston, and Lown (2015), argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.</sub><br><br>
 
-* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. ``[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101).'' *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
+* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101)." *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
     
     <sub>**Abstract**: How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? One prominent recent study, Newman, Johnston, and Lown (2015a), argues that, consistent with the confict theory, exposure to higher levels of local income inequality lead lower-income people to become more likely to reject|and higher-income people to become more likely to accept the dominant U.S. ideology of meritocracy. Here, we show that this conclusion is not supported by the study's own reported results and that even these results depend on pooling three different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.</sub><br><br>
 
-* Tang, Wenfang, Yue Hu, and Shuai Jin. ``[Affirmative Inaction: Education, Social Mobility, and Ethnic Inequality in China.](http://www.tandfonline.com/doi/abs/10.1080/21620555.2016.1202753)'' *Chinese Sociological Review*, 48-4 (2016): 346-66.
+* Tang, Wenfang, Yue Hu, and Shuai Jin. "[Affirmative Inaction: Education, Social Mobility, and Ethnic Inequality in China.](http://www.tandfonline.com/doi/abs/10.1080/21620555.2016.1202753)" *Chinese Sociological Review*, 48-4 (2016): 346-66.
 
     <sub>**Abstract**: This study finds that the Mandarin proficiency is partially responsible for the gap in socioeconomic inequality between the Han majority and the Uyghur Muslim minority. Multiple sources of evidence show that Uyghur Muslims share equal educational attainment as the Han majority, but are noticeably less fluent in Mandarin than the Han majority. Using data from the 2012 China Labor-Force Dynamics Survey (CLDS), we find that Mandarin proficiency can significantly improve occupational attainment and income. In other words, holding other factors equal, if ethnic minorities speak better Mandarin, they would have better chances to improve their socioeconomic status.</sub><br><br>
 
-* Hu, Yue. ``[Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy](http://booksandjournals.brillonline.com/content/journals/10.1163/18765610-02003011).'' *Journal of American-East Asian Relations* 20.2-3 (2013): 256-68.   
+* Hu, Yue. "[Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy](http://booksandjournals.brillonline.com/content/journals/10.1163/18765610-02003011)." *Journal of American-East Asian Relations* 20.2-3 (2013): 256-68.   
 
     <sub>**Abstract**: This study discusses the ability of culture to affect a state’s foreign policies in terms of cultural diplomacy, concentrating on the institutional level. It argues that one way a culture may affect a state’s cultural diplomacy is in making national institutions have features similar to the cultural features. Using China and Canada for comparative analysis, this article tests the theory that a state’s institutions of cultural diplomacy have features paralleling its own culture. This examination demonstrates that China and Canada, two states with different cultures, have different features in their institutions of cultural diplomacy that are consistent with Chinese and Canadian cultures respectively, thus supporting the validity of the theory.</sub><br><br>
 
@@ -30,15 +30,15 @@ description: Yue Hu's publications.
 
 ### Under Review
 
-* Hu, Yue. ``Strategic Communication: Why the Chinese Government Engages in Discourse about Democracy and Why It Matters.''
-* Hu, Yue. ``Are Informal Education Facilities Effective Means for Political Propaganda? A Spatial Analysis.''
-* Claypool, Vicki, William Reisinger, Marina Zaloznaya and Yue Hu. ``The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States.''
+* Hu, Yue. "Strategic Communication: Why the Chinese Government Engages in Discourse about Democracy and Why It Matters."
+* Hu, Yue. "Are Informal Education Facilities Effective Means for Political Propaganda? A Spatial Analysis."
+* Claypool, Vicki, William Reisinger, Marina Zaloznaya and Yue Hu. "The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States."
 
 ### Working Project
 
 * "Measure Political Desirability: An Experimental Method" (with Wenfang Tang).
 * "The Weight of History: Explaining the Anti-Japanese Sentiments in the Chinese Circle" (with Amy Liu).
-* "The Logic of Peaceful Rise: Revisiting the Power-Peace Relationship in International Politics" (with Ray Ou-Yang)
+* "The Logic of Peaceful Rise: Revisiting the Power-Peace Relationship in International Politics" (with Ray Ou-Yang).
 * "The Popularity of Political Propaganda in Modern China: A Model of Demands" (with Zijie Shao).
 * "Niche Audience: Chinese Government’s Secret Weapon in Official Media Propaganda" (with Zijie Shao).
 

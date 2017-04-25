@@ -2,7 +2,7 @@
 layout: default
 img: teaching.jpg
 category: Employment
-title: EMPLOYMENT (TEACHING-BASED)
+title: TEACHING EXPERIENCE
 description: Yue Hu's experience as a teaching assistant.
 ---
 
