@@ -9,7 +9,7 @@ description: Conferences Yue Hu participated.
 ### 2017
 * "The Weight of History: Explaining the Anti-Japanese Sentiments in the Chinese Circle." Paper presented with Amy Liu at **Midwest Political Science Association (MPSA)** Annual Convention, Chicago, Illinois, April, 7-9.
 * "The Popularity of Political Propaganda in Modern China: A Model of Demands." Paper presented with Zijie Shao at **Midwest Political Science Association (MPSA)** Annual Convention, Chicago, April, 7-9.
-* "The Logic of Peaceful Rise." Paper presented with Ray Ou-Yang at **MPSA**, Chicago, Illinois, April, 7-9 and **International Studies Association(ISA)** Annual Convention, Baltimore, Maryland, Feb. 22–25.
+* "The Logic of Peaceful Rise." Paper presented with Ray Ou-Yang at **Midwest Political Science Association (MPSA)** Annual Convention, Chicago, Illinois, April, 7-9 and **International Studies Association(ISA)** Annual Convention, Baltimore, Maryland, Feb. 22–25.
 
 ### 2016
 * "Measure Political Desirability: A List Experimental Method." Paper presented with Wenfang Tang at **Association of Chinese Political Science (ACPS)** Annual Meeting, Monterey, California, Oct, 10–11.
