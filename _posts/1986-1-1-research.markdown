@@ -6,6 +6,6 @@ title: RESEARCH INTERESTS
 description: Yue Hu's research interests.
 ---
 
-* **Comparative politics**: Public opinion, political communication, political language, institutional transformation, nationalism, political culture, China study.
-* **Methdology**: Survey experiment, text analysis, network analysis, spatial analysis.
-* **International relations**: Unconventional security, peaceful rise, cultural diplomacy, international cultural relations, Chinese foreign policy.
+* **Comparative politics**: Language policy, political communication, public opinion, political culture, China study.
+* **Methdology**: Survey experiment, text analysis, network analysis, spatial analysis, data visualization.
+* **International relations**: Post-WWII power rise, cultural diplomacy, international cultural relations, Chinese foreign policy.
