@@ -1,0 +1,25 @@
+---
+layout: default
+img: present.jpg
+category: Research
+title: RESEARCH EXPERIENCE
+description: Conferences Yue Hu participated in.
+---
+
+### Data Collection
+* Online survey experiment in China. 2017-02
+	+ Designed an online survey experiments, finished 994 surveys.
+* Field survey experiment in China. 2016-12
+	+ Designed and conducted survey experiments in Chengdu and Meizhou of China on 421 subjects in total.
+* Web scrapping Newspaper Documents. 2016
+	+ Scrapped the text content of People’s Daily (1946-2003) from a third party website, ending with 1,371,607 documents.
+
+### Research Assistant
+* 2017 -- 2015
+	+ Statistical Consultant, Iowa Social Science Research Center, University of Iowa.
+* 2017/2015 Summer
+	+ Research Assistant, data collection and management for SWIID updates, with Professor Frederick Solt, Dept. of Political Science, University of Iowa.
+* 2016 -- 2015
+	+ Research Assistant, empirical analysis and paper writing, with Professors Vicki Claypool, William Reisinger, Marina Zaloznaya, Dept. of Political Science & Dept. of Sociology, University of Iowa.
+* 2013 Summer
+	+ Research Assistant, survey data collection for East Asian countries, with Professor John Fuh-sheng Hsieh. Dept. of Political Science, University of South Carolina.
