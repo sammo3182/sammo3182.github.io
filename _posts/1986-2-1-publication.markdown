@@ -7,7 +7,7 @@ description: Yue Hu's publications.
 ---
 
 ### Journal Article
-* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "Economic Inequality and Class Consciousness." *Journal of Politics*, 3 (2017): Forthcoming.
+* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "Economic Inequality and Class Consciousness." *Journal of Politics*, 3 (2017): 1079-83.
     
     <sub>**Abstract**: Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demand- ing more redistribution? One prominent recent study, Newman, Johnston, and Lown (2015), argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.</sub><br><br>
 
