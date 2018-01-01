@@ -34,11 +34,12 @@ description: Yue Hu's publications.
 * Hu, Yue. "Are Informal Education Facilities Effective Means for Political Propaganda? A Spatial Analysis."
 * Liu, Amy and Yue Hu. "The Weight of History: Explaining the Anti-Japanese Sentiments in the Chinese Circle."
 * Claypool, Vicki, William Reisinger, Marina Zaloznaya and Yue Hu. "The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States."
+* Claypool, Vicki, William Reisinger, Marina Zaloznaya, Yue Hu, and Jenny Juehring. "Tsar Putin and the 'Corruption' Thorn in his Side: The Demobilization of Votes in a Competitive Authoritarian Regime."
+* Yue Hu and Zijie Shao. "The Popularity of Political Propaganda in Modern China: A Model of Demands."
 
 ### Working Project
 
 * "Measure Political Desirability: An Experimental Method" (with Wenfang Tang).
 * "The Logic of Peaceful Rise: Revisiting the Power-Peace Relationship in International Politics" (with Ray Ou-Yang).
-* "The Popularity of Political Propaganda in Modern China: A Model of Demands" (with Zijie Shao).
 * "Niche Audience: Chinese Government’s Secret Weapon in Official Media Propaganda" (with Zijie Shao).
 

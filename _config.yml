@@ -28,12 +28,15 @@ social:
   - icon: github
     title: github
     url: https://github.com/sammo3182
-  - icon: institution
-    title: Department
-    url: https://clas.uiowa.edu/polisci/
+  - icon: twitter
+    title: twitter
+    url: https://twitter.com/yuehupolisci
   - icon: file-pdf-o
     title: cv
     url: https://github.com/sammo3182/cv/blob/master/Hu_CV_en.pdf
   - icon: file-pdf-o
     title: 简历
     url: https://github.com/sammo3182/cv/blob/master/Hu_CV_cn.pdf
+  - icon: institution
+    title: Department
+    url: https://clas.uiowa.edu/polisci/

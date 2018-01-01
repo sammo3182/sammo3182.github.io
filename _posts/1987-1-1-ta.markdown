@@ -44,11 +44,9 @@ description: Yue Hu's experience as a teaching assistant.
 	+ Seminar Leader (GTA), designing and leading undergraduate seminars. 
 	
 ### Guest Lecture
-* 2017 Summer
-	+ Course: **Investigating Inequality with Real-Life Data: Research Strategies and Methods**, Nankai University Summer School ([slides](https://rpubs.com/sammo3182/nankaiSumSch)).
 * 2012 Fall
-	+ Course: **Controversial World Politics** (POLI-101), University of South Carolina.
+	+ **Controversial World Politics** , University of South Carolina.
 * 2012 Spring
-	+ Course: **American National Government** (POLI-201); **Comparative Politics-Developing Countries** (POLI-380), University of South Carolina.
+	+ **American National Government**,**Comparative Politics-Developing Countries**, University of South Carolina.
 * 2011 Fall
-	+ Course: **National Security of United States** (POLI-342), University of South Carolina. 
+	+ **National Security of United States**, University of South Carolina. 
