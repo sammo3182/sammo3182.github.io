@@ -13,35 +13,6 @@ description: Yue Hu's experience as a teaching assistant.
 	+ Course: **Hello, R: A Introduction To R**, Iowa Social Science Research Center, University of Iowa ([slides](slides_gh/slides/rWorkshop/)).
 * 2016 Fall
 	+ Course: **Math Camp**, Department of Political Science, University of Iowa ([slides](https://github.com/sammo3182/mathCamp/blob/master/mathcamp.html), [syllabus](https://github.com/sammo3182/mathCamp/blob/master/syllabus.pdf)).
-
-### Teaching Assistant
-* 2015 Spring
-	+ Course: **Introduction to Political Behavior** (030:050), University of Iowa.
-	+ Instructor of discussion sections. 
-* 2014 Fall
-	+ Course: **Introduction to Political Behavior** (030:050), University of Iowa.
-	+ Instructor of discussion sections. 
-* 2014 Spring
-	+ Course: **Introduction to Comparative Politics** (030:045), University of Iowa.
-	+ Instructor of discussion sections. 
-* 2013 Fall
-	+ Course: **Political Campaigning** (030:127); **Political Psychology** (030: 154), University of Iowa.
-	+ Designing exams and leading lectures. 
-* 2013 Spring
-	+ Course: **International Relations** (POLI-315); **Comparative Politics** (POLI-316), University of South Carolina.
-	+ Instructor of discussion sections.
-* 2012 Fall
-	+ Course: **Controversial World Politics** (POLI-101), University of South Carolina.
-	+ Exam Designer and Grader.
-* 2012 Spring
-	+ Course: **American National Government** (POLI-201); **Comparative Politics-Developing Countries** (POLI-380), University of South Carolina.
-	+ Exam Designer and Grader.
-* 2011 Fall
-	+ Course: **National Security of United States** (POLI-342), University of South Carolina.
-	+ Exam Designer and Grader. 
-* 2010 Fall
-	+ Course: **Introduction to Political Science** (PSCI-100), University of Regina.
-	+ Seminar Leader (GTA), designing and leading undergraduate seminars. 
 	
 ### Guest Lecture
 * 2012 Fall

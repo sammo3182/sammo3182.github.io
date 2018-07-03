@@ -7,11 +7,20 @@ description: Yue Hu's publications.
 ---
 
 ### Journal Article
-* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "Economic Inequality and Class Consciousness." *Journal of Politics*, 3 (2017): 1079-83.
+
+* Hu, Yue. "Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis." *Social Science Quarterly*, (2018): Forthcoming.
+
+	<sub>**Abstract**: *Object*. Informal education based on public facilities, such as museums and memorials, is an important propaganda practice in authoritarian countries. However, the empirical research on this area is underdeveloped and relies on small and potentially biased samples. *Method*. This study collects unique spatial-opinion data of over 300 such informal education facilities in China merged with original survey data and conducts a systematic evaluation of this form of propaganda. *Result*. The statistical results challenge the conventional expectation that more exposure to the informal education facilities would improve the citizens' support and obedience to the government. *Conclusion*. The findings reveal a backfire effect of informal education facilities that more exposure to them reduces both citizens’ political support and obedience.</sub><br><br>
+
+* Claypool, Vicki Hesli, William Reisinger, Marina Zaloznaya, Yue Hu, and Jenny Juehring. "[Tsar Putin and the 'Corruption' Thorn in his Side: The Demobilization of Votes in a Competitive Authoritarian Regime](https://www.sciencedirect.com/science/article/pii/S0261379417304304)." *Electorial Studies*, 54 (2018): 182-204.
+
+	<sub>**Abstract**: We argue that personal exposure to corrupt transactions with bureaucrats, many of whom are the only representatives of the state people encounter, leads citizens to conclude that politicians are corrupt and undeserving of electoral support. To provide empirical support for this thesis, we analyze 2,000 responses from face-to-face interviews conducted in Russia in June-July 2015. Using both behavioral and perceptual measures of corruption, we test for both the suppressive effect of corruption on the act of voting (turnout) as well as the negative effect of corruption on Putin's vote share via increased support of oppositional candidates. We display, justify, and test a structural equation model of "demobilized voting" in competitive authoritarian regimes. Most significant is our identification of two causal paths by which individual contact with corrupt officials undermines Putin's support.</sub><br><br>
+
+* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "[Economic Inequality and Class Consciousness](https://www.journals.uchicago.edu/doi/10.1086/690971)." *Journal of Politics*, 3 (2017): 1079-83.
     
     <sub>**Abstract**: Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demand- ing more redistribution? One prominent recent study, Newman, Johnston, and Lown (2015), argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.</sub><br><br>
 
-* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101)." *Research and Politics*, 3-4 (2016): DOI: 10.1177/2053168016672101.
+* Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, and Dong 'Erico' Yu. "[Economic Inequality and Belief in Meritocracy in the United States](http://rap.sagepub.com/content/3/4/2053168016672101)." *Research & Politics*, 3-4 (2016): 1-7.
     
     <sub>**Abstract**: How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? One prominent recent study, Newman, Johnston, and Lown (2015a), argues that, consistent with the confict theory, exposure to higher levels of local income inequality lead lower-income people to become more likely to reject|and higher-income people to become more likely to accept the dominant U.S. ideology of meritocracy. Here, we show that this conclusion is not supported by the study's own reported results and that even these results depend on pooling three different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.</sub><br><br>
 
@@ -30,16 +39,15 @@ description: Yue Hu's publications.
 
 ### Under Review
 
+* Hu, Yue. "Culture Marker vs. Authority Marker: How Do Language Attitudes Affect Political Trust?"
 * Hu, Yue. "Strategic Communication: Why the Chinese Government Engages in Discourse about Democracy and Why It Matters."
-* Hu, Yue. "Are Informal Education Facilities Effective Means for Political Propaganda? A Spatial Analysis."
 * Liu, Amy and Yue Hu. "The Weight of History: Explaining the Anti-Japanese Sentiments in the Chinese Circle."
 * Claypool, Vicki, William Reisinger, Marina Zaloznaya and Yue Hu. "The Pernicious Effect of Petty Corruption on System-Supporting Political Behavior in Post-Soviet States."
-* Claypool, Vicki, William Reisinger, Marina Zaloznaya, Yue Hu, and Jenny Juehring. "Tsar Putin and the 'Corruption' Thorn in his Side: The Demobilization of Votes in a Competitive Authoritarian Regime."
-* Yue Hu and Zijie Shao. "The Popularity of Political Propaganda in Modern China: A Model of Demands."
 
 ### Working Project
 
 * "Measure Political Desirability: An Experimental Method" (with Wenfang Tang).
 * "The Logic of Peaceful Rise: Revisiting the Power-Peace Relationship in International Politics" (with Ray Ou-Yang).
-* "Niche Audience: Chinese Government’s Secret Weapon in Official Media Propaganda" (with Zijie Shao).
+* "The Popularity of Political Propaganda in Modern China: A Model of Demands" (with Zijie Shao)
+
 
