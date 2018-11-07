@@ -59,14 +59,14 @@ enableGitInfo = true
   organizations = [ { name = "Tsinghua University", url = "https://www.tsinghua.edu.cn/publish/psen/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "yuehu@tsinghua.edu.cn"
+  address = "Xinzhai, Qinghua Yuan, Haidian District, Beijing 100084, China"
+  office_hours = "By appointment"
+  phone = "803-250-1686 (txt only)"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -99,36 +99,36 @@ enableGitInfo = true
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Yue Hu, Tsinghua, Political Science, Language, Political Communication, Inequality, China, Comparative, Methodology, Experiment"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "portrait.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "yuehupolisci"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "logo.jpg"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2006-01-02"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -163,7 +163,7 @@ enableGitInfo = true
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["R"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -199,7 +199,7 @@ enableGitInfo = true
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -224,7 +224,7 @@ enableGitInfo = true
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 1
 
     # Talk list format.
     #   0 = Simple
@@ -258,24 +258,24 @@ enableGitInfo = true
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/yuehupolisci"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=7FQJnB0AAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/sammo3182"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "https://raw.githubusercontent.com/sammo3182/cv/3d770ae54d1edab8d42465e48b20e8d63f142719/Hu_CV_en.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -296,24 +296,19 @@ enableGitInfo = true
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "#teaching"
   weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
