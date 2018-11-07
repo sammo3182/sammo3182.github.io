@@ -10,31 +10,39 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Language Politics",
+    "Political Communication",
+    "Inequality",
+    "Political Methodology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Political Science"
+  institution = "University of Iowa"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "M.A. in Political Science"
+  institution = "University of South Carolina"
+  year = 2013
+
+[[education.courses]]
+  course = "M.A. in Political Science"
+  institution = "University of Regina"
+  year = 2011
+
+[[education.courses]]
+  course = "B.L.L in International Politics"
+  institution = "Nankai University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor of political science at Tsinghua University.
+My research interest primarily lies in language policy, political communication, and socioeconomic inequality. 
+I particularly focus on how language policy affects citizens' political attitudes, relations, and value system, and how government-to-citizen communication influences public opinion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Apart from the primary interests, I also research political methodology (esp. survey experimentation, spatial analysis, network analysis, and data visualization) and international relations (soft power and public diplomacy).
