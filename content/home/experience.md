@@ -3,15 +3,15 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Professional"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 7
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006-01"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,27 +19,26 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Statistical Consultant"
+  company = "Iowa Social Science Research Center"
+  company_url = "http://ppc.uiowa.edu/isrc"
+  location = "Iowa, U.S.A."
+  date_start = "2015-08-01"
+  date_end = "2018-05-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Community Workshop
+  * One-on-one consulting
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Professor"
+  company = "Tsinghua University"
+  company_url = "https://www.tsinghua.edu.cn/publish/psen/"
+  location = "Beijing, China"
+  date_start = "2018-12-01"
+  date_end = ""
+  description = ""
 
 +++
