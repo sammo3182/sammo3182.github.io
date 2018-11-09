@@ -1,26 +1,26 @@
 +++
-title = "MeasureLanguage"
-date = 2018-11-09T12:07:38+08:00  # Schedule page publish date.
+title = "Measuring the Influence of Language in Political Science Research"
+date = 2018-04-20T12:07:38+08:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-09T12:07:38+08:00
-time_end = 2018-11-09T12:07:38+08:00
+# time_start = 2018-11-09T12:07:38+08:00
+# time_end = 2018-11-09T12:07:38+08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Yue Hu"]
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "St. Louis Area Methods Meeting (SLAMM)"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Iowa State University, Ames, Iowa"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["languageChina"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -43,7 +43,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["language", "methodology"]
 
 # Links (optional).
 url_pdf = ""
