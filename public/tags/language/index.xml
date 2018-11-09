@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>language on Yue Hu&#39;s Personal Page</title>
+    <link>/tags/language/</link>
+    <description>Recent content in language on Yue Hu&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 09 Nov 2018 10:51:14 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language and Language Politics In China</title>
+      <link>/project/languagechina/</link>
+      <pubDate>Fri, 09 Nov 2018 10:51:14 +0800</pubDate>
+      
+      <guid>/project/languagechina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Media and Its Audience?</title>
+      <link>/project/cctv/</link>
+      <pubDate>Fri, 09 Nov 2018 10:31:24 +0800</pubDate>
+      
+      <guid>/project/cctv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivations for Labor Migration in China</title>
+      <link>/project/migrantchina/</link>
+      <pubDate>Fri, 09 Nov 2018 10:22:27 +0800</pubDate>
+      
+      <guid>/project/migrantchina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebuilding the Tower of Babel? The Influence of Language Policy on Political Trust</title>
+      <link>/talk/babel/</link>
+      <pubDate>Thu, 05 Apr 2018 12:00:00 +0800</pubDate>
+      
+      <guid>/talk/babel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,6 +4,54 @@
     
     <url>
     
+      <loc>/talk/measurelanguage/</loc>
+      <lastmod>2018-11-09T12:07:38+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/languagechina/</loc>
+      <lastmod>2018-11-09T10:51:14+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/desirability/</loc>
+      <lastmod>2018-11-09T10:48:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cctv/</loc>
+      <lastmod>2018-11-09T10:31:24+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/migrantchina/</loc>
+      <lastmod>2018-11-09T10:22:27+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/peacefulrise/</loc>
+      <lastmod>2018-11-09T10:11:19+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
     </url>
@@ -28,8 +76,16 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
+      <loc>/talk/babel/</loc>
+      <lastmod>2018-04-05T12:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/culturalmarker/</loc>
+      <lastmod>2018-01-03T12:30:01+08:00</lastmod>
     </url>
     
   
@@ -53,22 +109,6 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/external-project/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/internal-project/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
     </url>
     
@@ -143,26 +183,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
+      <lastmod>2018-11-09T10:51:14+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,6 +247,42 @@
     
       <loc>/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/inequality/</loc>
+      <lastmod>2018-11-09T10:51:14+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/language/</loc>
+      <lastmod>2018-11-09T10:51:14+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/methodology/</loc>
+      <lastmod>2018-11-09T10:48:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/misc/</loc>
+      <lastmod>2018-11-09T10:11:19+08:00</lastmod>
       <priority>0</priority>
     </url>
     

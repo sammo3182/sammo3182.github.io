@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inequality on Yue Hu&#39;s Personal Page</title>
+    <link>/tags/inequality/</link>
+    <description>Recent content in inequality on Yue Hu&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 09 Nov 2018 10:51:14 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language and Language Politics In China</title>
+      <link>/project/languagechina/</link>
+      <pubDate>Fri, 09 Nov 2018 10:51:14 +0800</pubDate>
+      
+      <guid>/project/languagechina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivations for Labor Migration in China</title>
+      <link>/project/migrantchina/</link>
+      <pubDate>Fri, 09 Nov 2018 10:22:27 +0800</pubDate>
+      
+      <guid>/project/migrantchina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
