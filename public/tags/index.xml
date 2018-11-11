@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>cctv</title>
+      <link>/tags/cctv/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cctv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>/tags/communication/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>inequality</title>
       <link>/tags/inequality/</link>
       <pubDate>Fri, 09 Nov 2018 10:51:14 +0800</pubDate>
@@ -63,6 +81,15 @@
       <pubDate>Fri, 09 Nov 2018 10:11:19 +0800</pubDate>
       
       <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>/tags/others/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/others/</guid>
       <description></description>
     </item>
     

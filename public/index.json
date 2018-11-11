@@ -195,6 +195,85 @@
     "type": "talk"
   },
   {
+    "authors": [
+      "Yue Hu",
+      "Zijie Shao"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1514736000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514736000,
+    "objectID": "b877943f3285e95320686511d27df750",
+    "permalink": "/publication/hu2018c/",
+    "publishdate": "2018-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/hu2018c/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "communication"
+    ],
+    "title": "The Popularity of Political Propaganda in Modern China: A Model of Demands",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Vicki Hesli Claypool",
+      "William Reisinger",
+      "Marina Zaloznaya",
+      "Yue Hu",
+      "Jenny Juehring"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1514736000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514736000,
+    "objectID": "61245fe9eb26bee314618179c02a0207",
+    "permalink": "/publication/claypool2018/",
+    "publishdate": "2018-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/claypool2018/",
+    "section": "publication",
+    "summary": "In this article, we argue that citizens' personal exposure to corrupt transactions with bureaucrats, many of whom are the only representatives of the state these people encounter, leads to a conclusion that the political leadership is corrupt and, therefore, undeserving of electoral support. To provide empirical support for this thesis, we first justify our case for analysis by discussing the significance of voting in authoritarian systems. While scholars have explained the function of semi-competitive elections in non-democratic systems, few have actually studied how citizens make their electoral choices in such contexts. We fill this gap by validating a \"demobilization\" model of voting in competitive authoritarian regimes. We show that even though voting in such systems is unlikely to bring about regime change, citizens do use elections to express their political preferences and their opinions about the performance of their leaders. Most significant is our identification of two causal paths by which individual contact with corrupt officials undermines Vladimir Putin's electoral support. Our demobilization model also specifies the nuanced mechanisms, both direct and indirect, by which other well-established predictors affect turnout and vote choice in an authoritarian context.",
+    "tags": [
+      "others"
+    ],
+    "title": "Tsar Putin and the `Corruption' Thorn in his Side: The Demobilization of Votes in a Competitive Authoritarian Regime",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Frederick Solt",
+      "Yue Hu",
+      "Kevan Hudson",
+      "Jungmin Song",
+      "Dong 'Erico' Yu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1483200000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1483200000,
+    "objectID": "354ebf010cd64b19b992ef8dfb76b57c",
+    "permalink": "/publication/solt2017/",
+    "publishdate": "2017-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/solt2017/",
+    "section": "publication",
+    "summary": "Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demanding more redistribution? One prominent recent publication, the 2015 study by Newman, Johnston, and Lown, argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.",
+    "tags": [
+      "inequality",
+      "methodology"
+    ],
+    "title": "Economic Inequality and Class Consciousness",
+    "type": "publication"
+  },
+  {
     "authors": [],
     "categories": null,
     "content": " Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.\nFollow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you\u0026rsquo;ll get in less than 10 minutes.\n View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt   \nKey features:\n Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.\n         Ecosystem Academic Admin: An admin tool to import publications from BibTeX or import assets for an offline site\nInstall You can choose from one of the following four methods to install:\n one-click install using your web browser (recommended) install on your computer using Git with the Command Prompt/Terminal app install on your computer by downloading the ZIP files install on your computer with RStudio  Quick install using your web browser  Install Academic with Netlify  Netlify will provide you with a customizable URL to access your new site  On GitHub, go to your newly created academic-kickstart repository and edit config.toml to personalize your site. Shortly after saving the file, your site will automatically update Read the Quick Start Guide to learn how to add Markdown content. For inspiration, refer to the Markdown content which powers the Demo  Install with Git Prerequisites:\n Download and install Git Download and install Hugo   Fork the Academic Kickstart repository and clone your fork with Git:\ngit clone https://github.com/sourcethemes/academic-kickstart.git My_Website  Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace sourcethemes with your GitHub username.\n Initialize the theme:\ncd My_Website git submodule update --init --recursive   Install with ZIP  Download and extract Academic Kickstart Download and extract the Academic theme to the themes/academic/ folder from the above step  Install with RStudio View the guide to installing Academic with RStudio\nQuick start  If you installed on your computer, view your new website by running the following command:\nhugo server  Now visit localhost:1313 and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.\n Read the Quick Start Guide to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the Markdown content which powers the Demo\n Build your site by running the hugo command. Then host it for free using Github Pages or Netlify (refer to the first installation method). Alternatively, copy the generated public/ directory (by FTP, Rsync, etc.) to your production web server (such as a university\u0026rsquo;s hosting service).\n  Updating Feel free to star the project on Github to help keep track of updates and check out the release notes prior to updating your site.\nBefore updating the framework, it is recommended to make a backup of your entire website directory (or at least your themes/academic directory) and record your current version number.\nBy default, Academic is installed as a Git submodule which can be updated by running the following command:\ngit submodule update --remote --merge  Check out the update guide for full instructions and alternative methods.\nFeedback \u0026amp; Contributing Please use the issue tracker to let me know about any bugs or feature requests, or alternatively make a pull request.\nFor support, head over to the Hugo discussion forum.\nLicense Copyright 2016-present George Cushen.\nReleased under the MIT license.\n",
@@ -217,23 +296,56 @@
   },
   {
     "authors": [
-      "GA Cushen"
+      "Wenfang Tang",
+      "Yue Hu",
+      "Shuai Jin"
     ],
     "categories": null,
-    "content": "More detail can easily be written here using Markdown and $\\rm \\LaTeX$ math code.\n",
-    "date": 1441036800,
+    "content": "",
+    "date": 1451577600,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
-    "lastmod": 1541552994,
-    "objectID": "d77fa4a74076ffcd7ca6c21cfc27a4b2",
-    "permalink": "/publication/person-re-id/",
-    "publishdate": "2015-09-01T00:00:00+08:00",
-    "relpermalink": "/publication/person-re-id/",
+    "lastmod": 1451577600,
+    "objectID": "3531dcfb3ed938fb0d861edceade8b3d",
+    "permalink": "/publication/tang2016/",
+    "publishdate": "2016-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/tang2016/",
     "section": "publication",
-    "summary": "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website.",
-    "tags": [],
-    "title": "A Person Re-Identification System For Mobile Devices",
+    "summary": "This study finds that the Mandarin proficiency is partially responsible for the gap in socioeconomic inequality between the Han majority and the Uyghur Muslim minority. Multiple sources of evidence show that Uyghur Muslims share equal educational attainment as the Han majority, but are noticeably less fluent in Mandarin than the Han majority. Using data from the 2012 China Labor-Force Dynamics Survey (CLDS), we find that Mandarin proficiency can significantly improve occupational attainment and income. In other words, holding other factors equal, if ethnic minorities speak better Mandarin, they would have better chances to improve their socioeconomic status.",
+    "tags": [
+      "language",
+      "inequality"
+    ],
+    "title": "Affirmative Inaction: Language Education and Labor Mobility among China's Muslim Minorities",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Frederick Solt",
+      "Yue Hu",
+      "Kevan Hudson",
+      "Jungmin Song",
+      "Dong 'Erico' Yu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1451577600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1451577600,
+    "objectID": "b879e26ed83f8f67a826f16071eefeaf",
+    "permalink": "/publication/solt2016/",
+    "publishdate": "2016-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/solt2016/",
+    "section": "publication",
+    "summary": "How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? A prominent recent study by Newman, Johnston, and Lown argues that, consistent with the conflict theory, exposure to higher levels of local income inequality leads lower-income people to become more likely to reject and higher-income people to become more likely to accept the dominant United States ideology of meritocracy. Here, we show that this conclusion is not supported by the studys own reported results and that even these results depend on pooling three distinctly different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.",
+    "tags": [
+      "inequality",
+      "methodology"
+    ],
+    "title": "Economic Inequality and Belief in Meritocracy in the United States",
     "type": "publication"
   },
   {
@@ -263,24 +375,96 @@
   },
   {
     "authors": [
-      "GA Cushen",
-      "MS Nixon"
+      "Yue Hu"
     ],
     "categories": null,
-    "content": "More detail can easily be written here using Markdown and $\\rm \\LaTeX$ math code.\n",
-    "date": 1372608000,
+    "content": "",
+    "date": 1356969600,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
-    "lastmod": 1541552994,
-    "objectID": "2b4d919e3cf73dfcd0063c88fe01cb00",
-    "permalink": "/publication/clothing-search/",
-    "publishdate": "2013-07-01T00:00:00+08:00",
-    "relpermalink": "/publication/clothing-search/",
+    "lastmod": 1356969600,
+    "objectID": "1ecc7a283a81f51235efd5a8bc78313d",
+    "permalink": "/publication/hu2013/",
+    "publishdate": "2013-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/hu2013/",
     "section": "publication",
-    "summary": "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results.",
-    "tags": [],
-    "title": "Mobile visual clothing search",
+    "summary": "This study discusses the ability of culture to affect a state's foreign policies in terms of cultural diplomacy, concentrating on the institutional level. It argues that one way a culture may affect a state's cultural diplomacy is in making national institutions have features similar to the cultural features. Using China and Canada for comparative analysis, this article tests the theory that a state's institutions of cultural diplomacy have features paralleling its own culture. This examination demonstrates that China and Canada, two states with different cultures, have different features in their institutions of cultural diplomacy that are consistent with Chinese and Canadian cultures respectively, thus supporting the validity of the theory.",
+    "tags": [
+      "cctv"
+    ],
+    "title": "Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "胡悦",
+      "朱毓朝"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1320941437,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1320941437,
+    "objectID": "8bad8cddc4fde72f7e254eb58f5092c5",
+    "permalink": "/publication/hu2011b/",
+    "publishdate": "2011-11-11T00:10:37+08:00",
+    "relpermalink": "/publication/hu2011b/",
+    "section": "publication",
+    "summary": "比较政治研究是现今政治学研究最为活跃的领域之一, 因其研究内容直接涉及具体 的政治决策、实施及反馈过程, 从而具有了理论和实践的双重意义。西方比较政治学呈现一种由 '主义导向'到'问题导向'的发展趋势, 基于对这种趋势的认识, 中国比较政治研究应选择'问题导 向'的研究策略。中国比较政治研究本土化是个漫长而复杂的过程, 一旦选择了适合的导向, 即可 通过借鉴西方比较政治研究成果加快这一进程。",
+    "tags": [
+      "others"
+    ],
+    "title": "'问题与主义' 导向之争: 西方比较政治学沿革及其借鉴意义",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "程同顺",
+      "胡悦"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1289405416,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1289405416,
+    "objectID": "3618b30e124d96cde8ca1f2c16a31a4e",
+    "permalink": "/publication/cheng2010/",
+    "publishdate": "2010-11-11T00:10:16+08:00",
+    "relpermalink": "/publication/cheng2010/",
+    "section": "publication",
+    "summary": "从文明冲突论的理论内核、理论构建的方法及其与美国对外政策的一致性等三个方面可以看出, 文明冲突论并非严格意义上的'真正的理论', 只是一种工具性理论。但是作为一种工具性理论, 文明冲突论却对美国自'冷战'结束以来的对外政策发挥着重要的影响作用。中国作为一个具有5000多年文明史的国家, 有着丰厚的文化 资源, 在对外政策方面应该建立自己的文化理论。",
+    "tags": [
+      "others"
+    ],
+    "title": "对外政策的文化道具：浅析文明冲突论的工具性",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "胡悦"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1257868700,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1257868700,
+    "objectID": "c6c362baedaa43f573ecef11cea80596",
+    "permalink": "/publication/hu2009/",
+    "publishdate": "2009-11-10T23:58:20+08:00",
+    "relpermalink": "/publication/hu2009/",
+    "section": "publication",
+    "summary": "中国共产党领导的多党合作和政治协商制度，是中国特色政治民主体制的重 要组成部分和代表性特点之一。随着中国政治体制的不断完善和政治民主进 程的不断演进，坚持中国共产党领导的多党合作和政治协商制度，搞好新时 期、新环境下的统一战线工作，发挥人民政协在保证社会稳定、支持国家建设 当中的重要作用，成为当前中国的重要政治任务之一；而对中国特色的人民政 协制度理论研究则是保证中国特色政协体制顺利进行，正确发展的重要基础 和前提。本文旨在运用以分析性方法（Analytic Approach）为主要途径，结合组 织理论和政府过程理论，对于“政协体制在中国政治系统中的定位”这一核 心问题进行政治学意义上的定性研究。",
+    "tags": [
+      "others"
+    ],
+    "title": "从政治科学角度分析人民政协的政治定位",
     "type": "publication"
   },
   {
@@ -301,5 +485,102 @@
     "tags": null,
     "title": "Slides",
     "type": "slides"
+  },
+  {
+    "authors": [
+      "Yue Hu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": -62167248000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62167248000,
+    "objectID": "908d464b0d55b1e1564582e7a1289b23",
+    "permalink": "/publication/hu2018/",
+    "publishdate": "0000-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/hu2018/",
+    "section": "publication",
+    "summary": "Object. Informal education based on public facilities, such as museums and memorials, is an important propaganda practice in authoritarian countries. However, the empirical research on this area is underdeveloped and relies on small and potentially biased samples. Method. This study collects unique spatial-opinion data of over 300 such informal education facilities in China merged with original survey data and conducts a systematic evaluation of this form of propaganda. Result. The statistical results challenge the conventional expectation that more exposure to the informal education facilities would improve the citizens' support and obedience to the government. Conclusion. The findings reveal a backfire effect of informal education facilities that more exposure to them reduces both citizens' political support and obedience.",
+    "tags": [
+      "communication",
+      "methodology"
+    ],
+    "title": "Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Yue Hu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": -62167248000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62167248000,
+    "objectID": "ebbd062ddb60c1b291250408d80638c7",
+    "permalink": "/publication/hu2018b/",
+    "publishdate": "0000-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/hu2018b/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "language",
+      "methodology"
+    ],
+    "title": "Culture Marker vs. Authority Marker: How Do Language Attitudes Affect Political Trust?",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Yue Hu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": -62167248000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62167248000,
+    "objectID": "c34652c18fb57fecd267a9aaae4aa369",
+    "permalink": "/publication/hu2018a/",
+    "publishdate": "0000-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/hu2018a/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "language",
+      "communication",
+      "methodology"
+    ],
+    "title": "Refocusing Democracy: The Chinese Government's Framing Strategy in Political Language",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Amy Liu",
+      "Yue Hu"
+    ],
+    "categories": null,
+    "content": "",
+    "date": -62167248000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62167248000,
+    "objectID": "277760755d4d0e35efa3ebaf6749bacf",
+    "permalink": "/publication/liu2018/",
+    "publishdate": "0000-01-01T00:00:00+08:00",
+    "relpermalink": "/publication/liu2018/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "language"
+    ],
+    "title": "The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World",
+    "type": "publication"
   }
 ]

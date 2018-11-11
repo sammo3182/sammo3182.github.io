@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Software"
+title = "Under-reviewed"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,17 +18,15 @@ weight = 5
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 1
+list_format = 3
 
 # Filter by publication type.
 # -1: Any
-#  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
-#  3: Work in progress
-#  4: Technical report
-#  5: Book
-#  6: Book chapter
+#  0: Peer-reviewed article
+#  1: Book
+#  2: Book chapters
+#  3: Under-reviewed article
+#  4: Chinese article
 publication_type = "-1"
 +++
 
