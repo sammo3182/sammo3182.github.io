@@ -1,0 +1,107 @@
+% Encoding: UTF-8
+
+@Article{Solt2017,
+  author    = {Solt, Frederick and Hu, Yue and Hudson, Kevan and Song, Jungmin and Yu, Dong 'Erico'},
+  title     = {Economic Inequality and Class Consciousness},
+  journal   = {The Journal of Politics},
+  year      = {2017},
+  volume    = {79},
+  number    = {3},
+  pages     = {1079--1083},
+  abstract  = {Do contexts of greater income inequality spur the disadvantaged to achieve a class consciousness vital to contesting the fairness of the economic system and demanding more redistribution? One prominent recent publication, the 2015 study by Newman, Johnston, and Lown, argues that simple exposure to higher levels of local income inequality lead low-income people to view the United States as divided into haves and have-nots and to see themselves as among the have-nots, that is, to become more likely to achieve such a class consciousness. Here, we show that this sanguine conclusion is at best supported only in analyses of the single survey presented in that study. There is no evidence that higher levels of income inequality produce greater class consciousness among those with low incomes in other similar but neglected surveys.},
+  group     = {published},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@Article{Solt2016,
+  author    = {Solt, Frederick and Hu, Yue and Hudson, Kevan and Song, Jungmin and Yu, Dong 'Erico'},
+  title     = {Economic Inequality and Belief in Meritocracy in the United States},
+  journal   = {Research and Politics},
+  year      = {2016},
+  volume    = {3},
+  number    = {4},
+  pages     = {1-7},
+  abstract  = {How does the context of income inequality in which people live affect their belief in meritocracy, the ability to get ahead through hard work? A prominent recent study by Newman, Johnston, and Lown argues that, consistent with the conflict theory, exposure to higher levels of local income inequality leads lower-income people to become more likely to reject and higher-income people to become more likely to accept the dominant United States ideology of meritocracy. Here, we show that this conclusion is not supported by the studys own reported results and that even these results depend on pooling three distinctly different measures of meritocracy into a single analysis. We then demonstrate that analysis of a larger and more representative survey employing a single consistent measure of the dependent variable yields the opposite conclusion. Consistent with the relative power theory, among those with lower incomes, local contexts of greater inequality are associated with more widespread belief that people can get ahead if they are willing to work hard.},
+  group     = {published},
+  publisher = {SAGE Publications},
+  timestamp = {2017-06-20},
+}
+
+@Article{Tang2016,
+  author    = {Tang, Wenfang and Hu, Yue and Jin, Shuai},
+  title     = {Affirmative Inaction: Language Education and Labor Mobility among China's Muslim Minorities},
+  journal   = {Chinese Sociological Review},
+  year      = {2016},
+  volume    = {4},
+  number    = {48},
+  pages     = {346-366},
+  abstract  = {This study finds that the Mandarin proficiency is partially responsible for the gap in socioeconomic inequality between the Han majority and the Uyghur Muslim minority. Multiple sources of evidence show that Uyghur Muslims share equal educational attainment as the Han majority, but are noticeably less fluent in Mandarin than the Han majority. Using data from the 2012 China Labor-Force Dynamics Survey (CLDS), we find that Mandarin proficiency can significantly improve occupational attainment and income. In other words, holding other factors equal, if ethnic minorities speak better Mandarin, they would have better chances to improve their socioeconomic status.},
+  group     = {published},
+  timestamp = {2017-08-09},
+}
+
+@Unpublished{Liu2018,
+  author    = {Liu, Amy and Hu, Yue},
+  title     = {The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World},
+  year      = {2018},
+  group     = {underreview},
+  timestamp = {2017-08-09},
+}
+
+@Unpublished{Hu2018c,
+  author = {Hu, Yue and Shao, Zijie},
+  title  = {The Popularity of Political Propaganda in Modern China: A Model of Demands},
+  year   = {2018},
+}
+
+@Unpublished{Hu2018a,
+  author    = {Yue Hu},
+  title     = {Refocusing Democracy: The Chinese Government's Framing Strategy in Political Language},
+  year      = {2018},
+  abstract  = {Although authoritarian governments are inherently nondemocratic, they talk about democracy frequently. Why do they do so? What does the term democracy mean in an authoritarian political language? This research uses a computer-assisted text analytical approach illustrating how an authoritarian government strategically manipulates the discourse about democracy to benefit itself. By analyzing 1,371,607 political articles in China over 58 years, the study shows a refocusing framing strategy, in which the Chinese government defines democracy not with regime justification but with national policy priorities while denoting democracy most frequently alongside liberal values. With this strategy, the democracy discourse can masquerade as consistent with liberal values in Western democracies but work for the preservation of the authoritarian regime by convincing the masses who are aware of popular conceptions of democracy.},
+  group     = {underreview},
+  timestamp = {2017-08-09},
+}
+
+@Unpublished{Hu2018b,
+  author = {Yue Hu},
+  title  = {Culture Marker vs. Authority Marker: How Do Language Attitudes Affect Political Trust?},
+  year   = {2018},
+  group  = {underreview},
+}
+
+@Article{Hu2018,
+  author   = {Hu, Yue},
+  title    = {Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis},
+  journal  = {Social Science Quarterly},
+  year     = {2018},
+  note     = {Forthcoming},
+  abstract = {Object. Informal education based on public facilities, such as museums and memorials, is an important propaganda practice in authoritarian countries. However, the empirical research on this area is underdeveloped and relies on small and potentially biased samples. Method. This study collects unique spatial-opinion data of over 300 such informal education facilities in China merged with original survey data and conducts a systematic evaluation of this form of propaganda. Result. The statistical results challenge the conventional expectation that more exposure to the informal education facilities would improve the citizens' support and obedience to the government. Conclusion. The findings reveal a backfire effect of informal education facilities that more exposure to them reduces both citizens' political support and obedience.},
+  group    = {published},
+}
+
+@Article{Hu2013,
+  author    = {Hu, Yue},
+  title     = {Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy},
+  journal   = {Journal of American-East Asian Relations},
+  year      = {2013},
+  volume    = {20},
+  number    = {2-3},
+  pages     = {256-268},
+  abstract  = {This study discusses the ability of culture to affect a state's foreign policies in terms of cultural diplomacy, concentrating on the institutional level. It argues that one way a culture may affect a state's cultural diplomacy is in making national institutions have features similar to the cultural features. Using China and Canada for comparative analysis, this article tests the theory that a state's institutions of cultural diplomacy have features paralleling its own culture. This examination demonstrates that China and Canada, two states with different cultures, have different features in their institutions of cultural diplomacy that are consistent with Chinese and Canadian cultures respectively, thus supporting the validity of the theory.},
+  group     = {published},
+  timestamp = {2017-08-09},
+}
+
+@Article{Claypool2018,
+  author   = {Vicki Hesli Claypool and William Reisinger and Marina Zaloznaya and Yue Hu and Jenny Juehring},
+  title    = {Tsar Putin and the `Corruption' Thorn in his Side: The Demobilization of Votes in a Competitive Authoritarian Regime},
+  journal  = {Electoral Studies},
+  year     = {2018},
+  volume   = {54},
+  pages    = {182--204},
+  abstract = {In this article, we argue that citizens' personal exposure to corrupt transactions with bureaucrats, many of whom are the only representatives of the state these people encounter, leads to a conclusion that the political leadership is corrupt and, therefore, undeserving of electoral support. To provide empirical support for this thesis, we first justify our case for analysis by discussing the significance of voting in authoritarian systems. While scholars have explained the function of semi-competitive elections in non-democratic systems, few have actually studied how citizens make their electoral choices in such contexts. We fill this gap by validating a "demobilization" model of voting in competitive authoritarian regimes. We show that even though voting in such systems is unlikely to bring about regime change, citizens do use elections to express their political preferences and their opinions about the performance of their leaders. Most significant is our identification of two causal paths by which individual contact with corrupt officials undermines Vladimir Putin's electoral support. Our demobilization model also specifies the nuanced mechanisms, both direct and indirect, by which other well-established predictors affect turnout and vote choice in an authoritarian context.},
+  group    = {published},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

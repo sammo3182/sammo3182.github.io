@@ -52,7 +52,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Yue Hu"
-  role = "Assistant Professor of Political University"
+  role = "Assistant Professor of Political Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -187,13 +187,11 @@ enableGitInfo = true
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Peer-reviewed article',  # 0
+    'Book',  # 1
+    'Book chapters',  # 2
+    'Under-reviewed article', # 3
+    'Chinese article' # 4
   ]
 
   # Configuration of talk pages.
@@ -292,7 +290,12 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
+  weight = 2
+
+[[menu.main]]
+  name = "Software"
+  url = "#software"
   weight = 2
 
 [[menu.main]]
