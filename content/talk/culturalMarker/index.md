@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "'Xin-Rui' Scholar Workshop at School of Government, Sun Yat-Sen University"
 event_url = ""
 
 # Location of event.

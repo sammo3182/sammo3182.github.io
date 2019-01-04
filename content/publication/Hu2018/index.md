@@ -1,7 +1,7 @@
 +++
 title = "Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis"
 
-date = 0000-01-01
+date = 2019-01-01
 
 authors = ["Yue Hu"]
 

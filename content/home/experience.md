@@ -37,7 +37,7 @@ date_format = "2006-01"
   company = "Tsinghua University"
   company_url = "https://www.tsinghua.edu.cn/publish/psen/"
   location = "Beijing, China"
-  date_start = "2018-12-01"
+  date_start = "2019-01-02"
   date_end = ""
   description = ""
 

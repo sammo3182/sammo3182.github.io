@@ -8,7 +8,7 @@ draft = false
 tags = ["inequality", "language"]
 
 # Project summary to display on homepage.
-summary = "A study of the motivations and opinions of internal migrants of contemporary China"
+summary = "A joint study with Elise Pizzi about the motivations and opinions of internal migrants of contemporary China"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

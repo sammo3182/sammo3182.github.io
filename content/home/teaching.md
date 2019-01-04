@@ -15,6 +15,6 @@ weight = 9
 
 +++
 
-# In University of Iowa
+## University of Iowa
 
 * POLI2000 Designing Political Research

@@ -42,7 +42,7 @@ weight = 1
 # Biography
 
 I am an assistant professor of political science at Tsinghua University.
-My research interest primarily lies in language policy, political communication, and socioeconomic inequality. 
+My research interest primarily lies in language politics, political communication, and socioeconomic inequality. 
 I particularly focus on how language policy affects citizens' political attitudes, relations, and value system, and how government-to-citizen communication influences public opinion.
 
 Apart from the primary interests, I also research political methodology (esp. survey experimentation, spatial analysis, network analysis, and data visualization) and international relations (soft power and public diplomacy).

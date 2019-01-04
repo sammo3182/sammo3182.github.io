@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 09 Nov 2018 10:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis</title>
+      <link>/publication/hu2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/hu2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measure Political Desirability</title>
@@ -54,15 +63,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/solt2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis</title>
-      <link>/publication/hu2018/</link>
-      <pubDate>Sat, 01 Jan 0000 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/hu2018/</guid>
       <description></description>
     </item>
     
