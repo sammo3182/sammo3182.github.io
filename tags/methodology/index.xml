@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 10:30:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Visualization and Anti-P-Hacking Movement: A Case from Political Science</title>
+      <link>/talk/packageintro/</link>
+      <pubDate>Sat, 25 May 2019 10:30:00 +0800</pubDate>
+      
+      <guid>/talk/packageintro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis</title>
