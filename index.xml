@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yue Hu&#39;s Personal Page on Yue Hu&#39;s Personal Page</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 12:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +15,15 @@
       <pubDate>Fri, 14 Jun 2019 12:00:00 +0800</pubDate>
       
       <guid>/talk/corruptionchina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Communications in Exhibitions: Informal Education Facilities and Political Conversations</title>
+      <link>/talk/informaleducation/</link>
+      <pubDate>Tue, 28 May 2019 09:50:00 +0800</pubDate>
+      
+      <guid>/talk/informaleducation/</guid>
       <description></description>
     </item>
     
@@ -145,15 +153,6 @@
       <pubDate>Wed, 03 Jan 2018 12:30:01 +0800</pubDate>
       
       <guid>/talk/culturalmarker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Popularity of Political Propaganda in Modern China: A Model of Demands</title>
-      <link>/publication/hu2018c/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/hu2018c/</guid>
       <description></description>
     </item>
     

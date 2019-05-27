@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -6,6 +5,50 @@
     
       <loc>/talk/corruptionchina/</loc>
       <lastmod>2019-06-14T12:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-06-14T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-06-14T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/language/</loc>
+      <lastmod>2019-06-14T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/informaleducation/</loc>
+      <lastmod>2019-05-28T09:50:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/methodology/</loc>
+      <lastmod>2019-05-28T09:50:00+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -28,6 +71,15 @@
     
     <url>
     
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/hu2018/</loc>
       <lastmod>2019-01-04T23:47:00+08:00</lastmod>
     </url>
@@ -36,8 +88,44 @@
     
     <url>
     
+      <loc>/publication_types/</loc>
+      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/communication/</loc>
+      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/languagechina/</loc>
       <lastmod>2018-11-09T15:57:57+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/inequality/</loc>
+      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -70,6 +158,15 @@
     
       <loc>/project/peacefulrise/</loc>
       <lastmod>2018-11-09T15:57:57+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/misc/</loc>
+      <lastmod>2018-11-09T15:57:57+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -124,6 +221,15 @@
     
     <url>
     
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/hu2018c/</loc>
       <lastmod>2018-11-12T07:42:05+08:00</lastmod>
     </url>
@@ -134,6 +240,15 @@
     
       <loc>/publication/claypool2018/</loc>
       <lastmod>2018-11-12T07:42:05+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/others/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -172,6 +287,15 @@
     
     <url>
     
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
     </url>
@@ -196,102 +320,17 @@
     
     <url>
     
+      <loc>/categories/</loc>
+      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hu2013/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hu2011b/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/cheng2010/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hu2009/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/4/</loc>
-      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-11-09T15:57:57+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -316,7 +355,7 @@
     
     <url>
     
-      <loc>/slides/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -325,15 +364,7 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>/tags/regression/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -342,9 +373,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/hu2013/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
     </url>
     
   
@@ -360,52 +390,15 @@
     
     <url>
     
-      <loc>/tags/communication/</loc>
-      <lastmod>2019-01-04T23:47:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/hu2011b/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/inequality/</loc>
-      <lastmod>2018-11-09T15:57:57+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/language/</loc>
-      <lastmod>2019-06-14T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/methodology/</loc>
-      <lastmod>2019-05-25T10:30:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/misc/</loc>
-      <lastmod>2018-11-09T15:57:57+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/others/</loc>
+      <loc>/publication_types/4/</loc>
       <lastmod>2018-11-12T07:42:05+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -414,7 +407,23 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
+      <loc>/publication/cheng2010/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hu2009/</loc>
+      <lastmod>2018-11-12T07:42:05+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -423,9 +432,8 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>/slides/example-slides/</loc>
       <lastmod>2018-11-07T09:09:54+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

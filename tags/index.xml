@@ -7,35 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 12:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title>language</title>
+      <link>/tags/language/</link>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 +0800</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/tags/language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>methodology</title>
+      <link>/tags/methodology/</link>
+      <pubDate>Tue, 28 May 2019 09:50:00 +0800</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cctv</title>
-      <link>/tags/cctv/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/cctv/</guid>
+      <guid>/tags/methodology/</guid>
       <description></description>
     </item>
     
@@ -58,24 +49,6 @@
     </item>
     
     <item>
-      <title>language</title>
-      <link>/tags/language/</link>
-      <pubDate>Fri, 14 Jun 2019 12:00:00 +0800</pubDate>
-      
-      <guid>/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methodology</title>
-      <link>/tags/methodology/</link>
-      <pubDate>Sat, 25 May 2019 10:30:00 +0800</pubDate>
-      
-      <guid>/tags/methodology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>misc</title>
       <link>/tags/misc/</link>
       <pubDate>Fri, 09 Nov 2018 10:11:19 +0800</pubDate>
@@ -94,6 +67,24 @@
     </item>
     
     <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -108,6 +99,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cctv</title>
+      <link>/tags/cctv/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cctv/</guid>
       <description></description>
     </item>
     

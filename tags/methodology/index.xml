@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 25 May 2019 10:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 09:50:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Political Communications in Exhibitions: Informal Education Facilities and Political Conversations</title>
+      <link>/talk/informaleducation/</link>
+      <pubDate>Tue, 28 May 2019 09:50:00 +0800</pubDate>
+      
+      <guid>/talk/informaleducation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Visualization and Anti-P-Hacking Movement: A Case from Political Science</title>
@@ -36,7 +45,7 @@
       <pubDate>Fri, 09 Nov 2018 10:48:00 +0800</pubDate>
       
       <guid>/project/desirability/</guid>
-      <description></description>
+      <description>A joint project with Wenfang Tang about measuring political desirability using a sensitive-questioning skill.</description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@
       <pubDate>Fri, 09 Nov 2018 10:11:19 +0800</pubDate>
       
       <guid>/project/peacefulrise/</guid>
-      <description></description>
+      <description>A joint project with Ray Ou-Yang of soft-hard power dynamic in the post-WII history with network analysis</description>
     </item>
     
     <item>
