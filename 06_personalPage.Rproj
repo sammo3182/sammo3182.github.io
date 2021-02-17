@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: XeLaTeX
 
 BuildType: Website
+WebsitePath: D:/Dropbox/Seafile/WW/06_personalSite
