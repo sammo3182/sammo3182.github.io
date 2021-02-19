@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>urban on Dr. Yue Hu&#39;s Personal Page</title>
+    <link>/tags/urban/</link>
+    <description>Recent content in urban on Dr. Yue Hu&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 09 Nov 2018 10:31:24 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/urban/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urbanization and Urban Politics</title>
+      <link>/project/urban/</link>
+      <pubDate>Fri, 09 Nov 2018 10:31:24 +0800</pubDate>
+      
+      <guid>/project/urban/</guid>
+      <description>The project focuses on the features and dynamics of citizens&amp;rsquo; political perceptions under the urbanization.</description>
+    </item>
+    
+  </channel>
+</rss>
