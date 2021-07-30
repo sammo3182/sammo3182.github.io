@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-site on Hu Yue</title>
+    <link>/tags/hugo-site/</link>
+    <description>Recent content in hugo-site on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Public Policy | 公共政策分析</title>
+      <link>/course/substantive-series/01-analysis_of_public_policy/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
+      <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Analysis of Public Policy is the place you cultivate this quality.
+The course starts with the conceptualization of public policy, and introduce the diverse perspectives and common principles of understanding public policies.</description>
+    </item>
+    
+  </channel>
+</rss>

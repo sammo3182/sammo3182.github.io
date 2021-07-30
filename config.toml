@@ -1,4 +1,5 @@
 baseURL = "/"
+publishDir = "../sammo3182.github.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hu Yue"

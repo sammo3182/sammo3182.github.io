@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Hu Yue</title>
+    <link>/series/</link>
+    <description>Recent content in Series on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Method Courses for &#34;Non-Math&#34; Students</title>
+      <link>/series/method-courses-for-non-math-students/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/method-courses-for-non-math-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Science: Substantive Topics</title>
+      <link>/series/political-science-substantive-topics/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/political-science-substantive-topics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

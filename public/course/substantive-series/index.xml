@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Science: Substantive Topics on Hu Yue</title>
+    <link>/course/substantive-series/</link>
+    <description>Recent content in Political Science: Substantive Topics on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/course/substantive-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Public Policy | 公共政策分析</title>
+      <link>/course/substantive-series/01-analysis_of_public_policy/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
+      <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Analysis of Public Policy is the place you cultivate this quality.
+The course starts with the conceptualization of public policy, and introduce the diverse perspectives and common principles of understanding public policies.</description>
+    </item>
+    
+    <item>
+      <title>Urban Politics | 城市政治学</title>
+      <link>/course/substantive-series/03-urban-politics/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/03-urban-politics/</guid>
+      <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.
+Preview Slides     TBA</description>
+    </item>
+    
+    <item>
+      <title>Principles of Politics | 政治学原理</title>
+      <link>/course/substantive-series/02-principles_of_politics/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/02-principles_of_politics/</guid>
+      <description>This is a course I coinstructed with Dr. MENG Tianguang. The course is on building. More information will be available soon.
+Preview Slides     TBA</description>
+    </item>
+    
+  </channel>
+</rss>
