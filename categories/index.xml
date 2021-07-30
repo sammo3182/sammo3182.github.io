@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hu Yue</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>identity</title>
+      <link>/categories/identity/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inequality</title>
+      <link>/categories/inequality/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>/categories/language/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>/categories/media/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methodology</title>
+      <link>/categories/methodology/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>political opinions</title>
+      <link>/categories/political-opinions/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/political-opinions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public opinion</title>
+      <link>/categories/public-opinion/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public opinions</title>
+      <link>/categories/public-opinions/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-opinions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/categories/teaching/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>/categories/visualization/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cleaning</title>
+      <link>/categories/cleaning/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>/categories/data/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

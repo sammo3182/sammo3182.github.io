@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Hu Yue</title>
+    <link>/categories/data/</link>
+    <description>Recent content in data on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pewdata</title>
+      <link>/software/pewdata/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/software/pewdata/</guid>
+      <description>Solt, Frederick, and Yue Hu. 2016. pewdata: Reproducible Retrieval of Pew Research Center Datasets. The Comprehensive R Archive Network (CRAN).
+  
+pewdata is an R package that provides reproducible, programmatic access to survey datasets from the Pew Research Center.
+To install:
+ the latest released version: install.packages(&amp;quot;pewdata&amp;quot;) the latest development version:  if (!require(ghit)) install.packages(&amp;#34;ghit&amp;#34;) ghit::install_github(&amp;#34;fsolt/pewdata&amp;#34;) Note that pewdata depends on the Firefox browser; if you don&amp;rsquo;t already have it installed on your machine, get it here.</description>
+    </item>
+    
+  </channel>
+</rss>

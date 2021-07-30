@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public policy on Hu Yue</title>
+    <link>/categories/public-policy/</link>
+    <description>Recent content in public policy on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/public-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Public Policy | 公共政策分析</title>
+      <link>/course/substantive-series/01-analysis_of_public_policy/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
+      <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Analysis of Public Policy is the place you cultivate this quality.
+The course starts with the conceptualization of public policy, and introduce the diverse perspectives and common principles of understanding public policies.</description>
+    </item>
+    
+    <item>
+      <title>Urban Politics | 城市政治学</title>
+      <link>/course/substantive-series/03-urban-politics/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/03-urban-politics/</guid>
+      <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.
+Preview Slides     TBA</description>
+    </item>
+    
+    <item>
+      <title>Identity &amp; Urban Governance</title>
+      <link>/project/urbanpoli/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/urbanpoli/</guid>
+      <description>Urban citizens are not only the demographic distributions in urban areas or objects ruled by the urban governments but active participants of urban governance and leading constructors of the state-society relationship. If regarding government policies as the responses of the public demands, I am interested in the responses of citizens with heterogeneous identities to these responses. Furthermore, I would like to evaluate the efficiency of the same policy tools on different groups of citizens in different types of cities.</description>
+    </item>
+    
+    <item>
+      <title>Political Linguistics</title>
+      <link>/project/polilingua/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/polilingua/</guid>
+      <description>Language is the fundamental feature of human beings. The debate of whether does language shapes thoughts or the other way around has inspires the greatest theorists and scientists throughout the human history. I aim to contribute to this classic topic from a view of political science. Using experimental and observed studies, I strive to identify the language effect in mass political cognition and linguistic relativity in sociopolitical behaviors and attitudes.</description>
+    </item>
+    
+    <item>
+      <title>Political Science: Substantive Topics</title>
+      <link>/course/substantive-series/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>
