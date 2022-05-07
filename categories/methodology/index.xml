@@ -9,7 +9,7 @@
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/methodology/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analysis of Political Data | 政治数据分析</title>
+      <title>Analysis of Political Data | 政治数据分析 (70700173)</title>
       <link>/course/method-series/01-analysis_of_poli_data/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -18,7 +18,7 @@
     </item>
     
     <item>
-      <title>Learning R with Dr. Hu and His Friends | R语言工作坊</title>
+      <title>Learning R with Dr. Hu and His Friends | 计算社会科学编程语言证书项目（R语言)</title>
       <link>/course/method-series/03-r-workshop/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -37,17 +37,6 @@
     </item>
     
     <item>
-      <title>Inequality &amp; Opinions</title>
-      <link>/project/inequality/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/inequality/</guid>
-      <description>Socioeconomic inequality includes systematic discrepancies among different groups of citizens in income, assets, mobility, accessible resources, etc. I am interested in the effects, paths, and mechanisms of this structural property on individual and group political cognition and attitudes.
-Published Studies     Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong &amp;lsquo;Erico&amp;rsquo; Yu. 2017. “Economic Inequality and Class Consciousness.” The Journal of Politics 79(3): 1079–83.
-———. 2016. “Economic Inequality and Belief in Meritocracy in the United States.</description>
-    </item>
-    
-    <item>
       <title>Method Courses for &#34;Non-Math&#34; Students</title>
       <link>/course/method-series/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
@@ -57,22 +46,32 @@ Published Studies     Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong 
     </item>
     
     <item>
+      <title>Political Communication</title>
+      <link>/project/policommu/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/policommu/</guid>
+      <description>People do not merely respond to the outside world; they recognize, process, and make choices. I am interested in how this psychological process is achieved within media interactions among the sender, carrier, and receiver. This also makes my research different from the prevalent political-communication studies that focus on the content and means of the media. Instead, I focus more on how people respond to them, for instance, what the audience actually feels, understands, and does when they are exposed to a political message from the government.</description>
+    </item>
+    
+    <item>
       <title>Political Linguistics</title>
       <link>/project/polilingua/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/polilingua/</guid>
-      <description>Language is the fundamental feature of human beings. The debate of whether does language shapes thoughts or the other way around has inspires the greatest theorists and scientists throughout the human history. I aim to contribute to this classic topic from a view of political science. Using experimental and observed studies, I strive to identify the language effect in mass political cognition and linguistic relativity in sociopolitical behaviors and attitudes.</description>
+      <description>Language is the fundamental feature of human beings. The debate of whether does language shapes thoughts or the other way around has inspires the greatest theorists and scientists throughout the human history. Nevertheless, the importance of language in political lives has not been well studied yet.
+Cutting in from an empirical angle, I strive to identify the influences of linguistic relativity and language planning in the government-mass relationship and the (re)construction of mass political cognition.</description>
     </item>
     
     <item>
-      <title>Political Persuasion</title>
-      <link>/project/policommu/</link>
+      <title>Socioeconomic Inequality</title>
+      <link>/project/inequality/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/policommu/</guid>
-      <description>I am interested in an age of the Internet and new media, how state media conduct their functions of political persuasion and political mobilization. I also wonder about how citizens consider and respond to state media and how they affect modern citizens&#39; political cognition especially in non-Western countries.
-Published Studies     Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. “Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.</description>
+      <guid>/project/inequality/</guid>
+      <description>Socioeconomic inequality includes systematic discrepancies among citizens in income, assets, mobility, accessible resources, etc. I am interested in this structural property&amp;rsquo;s effects, paths, and mechanisms on individual and group political decisions and behaviors. In particular, how do people recognize inequality (what aspects of inequality)? How does their awareness and understanding of inequality affect their political cognition, preferences, and decisions? Even more interestingly, what (or&amp;hellip;who) forms the masses&#39; inequality perceptions?
+Selected Publications     Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong &amp;lsquo;Erico&amp;rsquo; Yu.</description>
     </item>
     
     <item>

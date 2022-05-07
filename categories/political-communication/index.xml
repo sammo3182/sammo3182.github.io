@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>political communication on Hu Yue</title>
+    <link>/categories/political-communication/</link>
+    <description>Recent content in political communication on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/political-communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Political Communication</title>
+      <link>/project/policommu/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/policommu/</guid>
+      <description>People do not merely respond to the outside world; they recognize, process, and make choices. I am interested in how this psychological process is achieved within media interactions among the sender, carrier, and receiver. This also makes my research different from the prevalent political-communication studies that focus on the content and means of the media. Instead, I focus more on how people respond to them, for instance, what the audience actually feels, understands, and does when they are exposed to a political message from the government.</description>
+    </item>
+    
+  </channel>
+</rss>

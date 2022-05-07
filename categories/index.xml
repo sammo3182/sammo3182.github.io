@@ -36,20 +36,20 @@
     </item>
     
     <item>
-      <title>media</title>
-      <link>/categories/media/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>methodology</title>
       <link>/categories/methodology/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>political communication</title>
+      <link>/categories/political-communication/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/political-communication/</guid>
       <description></description>
     </item>
     
