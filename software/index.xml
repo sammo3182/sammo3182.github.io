@@ -35,7 +35,7 @@
       
       <guid>/software/regioncode/</guid>
       <description>Hu, Yue et al. 2020. regioncode: Convert Region Names and Division Codes of China Over Years. The Comprehensive R Archive Network (CRAN).
-  Inspired by Vincent Arel-Bundock&amp;rsquo;s well-known countrycode, we created regioncode to achieve similar functions specifically for China studies. regioncode enables seamlessly converting regions&#39; formal names, common-used names, and administrative division codes between each other.
+  Inspired by Vincent Arel-Bundock&amp;rsquo;s well-known countrycode, we created regioncode to achieve similar functions specifically for China studies. regioncode enables seamlessly converting regions&amp;rsquo; formal names, common-used names, and administrative division codes between each other.
 To install:
  the latest released version: install.packages(&amp;quot;regioncode&amp;quot;). the latest developing version: remotes::install_github(&amp;quot;sammo3182/regioncode&amp;quot;).  More details are available at:</description>
     </item>
@@ -47,7 +47,7 @@ To install:
       
       <guid>/software/drhur/</guid>
       <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).
-  drhur is pedagogical software make the R learners&#39; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
+  drhur is pedagogical software make the R learners&amp;rsquo; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
 To install:
  the latest release version: install.packages(&amp;quot;drhur&amp;quot;).   the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;).</description>
     </item>

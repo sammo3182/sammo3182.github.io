@@ -99,7 +99,7 @@ Preview Slides     TBA</description>
       
       <guid>/software/drhur/</guid>
       <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).
-  drhur is pedagogical software make the R learners&#39; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
+  drhur is pedagogical software make the R learners&amp;rsquo; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
 To install:
  the latest release version: install.packages(&amp;quot;drhur&amp;quot;).   the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;).</description>
     </item>

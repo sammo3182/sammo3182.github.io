@@ -108,7 +108,7 @@ Cutting in from an empirical angle, I strive to identify the influences of lingu
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/inequality/</guid>
-      <description>Socioeconomic inequality includes systematic discrepancies among citizens in income, assets, mobility, accessible resources, etc. I am interested in this structural property&amp;rsquo;s effects, paths, and mechanisms on individual and group political decisions and behaviors. In particular, how do people recognize inequality (what aspects of inequality)? How does their awareness and understanding of inequality affect their political cognition, preferences, and decisions? Even more interestingly, what (or&amp;hellip;who) forms the masses&#39; inequality perceptions?
+      <description>Socioeconomic inequality includes systematic discrepancies among citizens in income, assets, mobility, accessible resources, etc. I am interested in this structural property&amp;rsquo;s effects, paths, and mechanisms on individual and group political decisions and behaviors. In particular, how do people recognize inequality (what aspects of inequality)? How does their awareness and understanding of inequality affect their political cognition, preferences, and decisions? Even more interestingly, what (or&amp;hellip;who) forms the masses&amp;rsquo; inequality perceptions?
 Selected Publications     Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong &amp;lsquo;Erico&amp;rsquo; Yu.</description>
     </item>
     
@@ -139,7 +139,7 @@ Selected Publications     Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, D
       
       <guid>/software/regioncode/</guid>
       <description>Hu, Yue et al. 2020. regioncode: Convert Region Names and Division Codes of China Over Years. The Comprehensive R Archive Network (CRAN).
-  Inspired by Vincent Arel-Bundock&amp;rsquo;s well-known countrycode, we created regioncode to achieve similar functions specifically for China studies. regioncode enables seamlessly converting regions&#39; formal names, common-used names, and administrative division codes between each other.
+  Inspired by Vincent Arel-Bundock&amp;rsquo;s well-known countrycode, we created regioncode to achieve similar functions specifically for China studies. regioncode enables seamlessly converting regions&amp;rsquo; formal names, common-used names, and administrative division codes between each other.
 To install:
  the latest released version: install.packages(&amp;quot;regioncode&amp;quot;). the latest developing version: remotes::install_github(&amp;quot;sammo3182/regioncode&amp;quot;).  More details are available at:</description>
     </item>
@@ -151,7 +151,7 @@ To install:
       
       <guid>/software/drhur/</guid>
       <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).
-  drhur is pedagogical software make the R learners&#39; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
+  drhur is pedagogical software make the R learners&amp;rsquo; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
 To install:
  the latest release version: install.packages(&amp;quot;drhur&amp;quot;).   the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;).</description>
     </item>
