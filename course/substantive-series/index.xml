@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Political Science: Substantive Topics on Hu Yue</title>
-    <link>//localhost:4321/course/substantive-series/</link>
+    <link>/course/substantive-series/</link>
     <description>Recent content in Political Science: Substantive Topics on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/course/substantive-series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/course/substantive-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of Public Policy | 公共政策分析 (30700953)</title>
-      <link>//localhost:4321/course/substantive-series/01-analysis_of_public_policy/</link>
+      <link>/course/substantive-series/01-analysis_of_public_policy/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/01-analysis_of_public_policy/</guid>
+      <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
       <description>Analysis of Public Policy: Perspectives and Methods focuses on empirical policy evaluation. The course introduces a political scientist view and a series of modern empirical methods into public policy analyses. Students will learn not only the fundamental analytic theories for public policy evaluation but also tools such as case study, survey, experiments, and big-data analysis, that can be used to analyze different types of policies. In every topic, we will include real-life cases to illustrate how the theories and method can be applied.</description>
     </item>
     <item>
       <title>Understanding Policies | 理解公共政策 (10700193)</title>
-      <link>//localhost:4321/course/substantive-series/01-understanding_public_policy/</link>
+      <link>/course/substantive-series/01-understanding_public_policy/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/01-understanding_public_policy/</guid>
+      <guid>/course/substantive-series/01-understanding_public_policy/</guid>
       <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Understanding Public Policies: Interdisciplinary Perspectives and Case Illustrations is the place you cultivate this quality.</description>
     </item>
     <item>
       <title>Urban Politics | 城市政治学</title>
-      <link>//localhost:4321/course/substantive-series/03-urban-politics/</link>
+      <link>/course/substantive-series/03-urban-politics/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/03-urban-politics/</guid>
+      <guid>/course/substantive-series/03-urban-politics/</guid>
       <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.&#xA;Preview Slides TBA</description>
     </item>
     <item>
       <title>Political Culture | 政治文化</title>
-      <link>//localhost:4321/course/substantive-series/02-principles_of_politics/</link>
+      <link>/course/substantive-series/02-principles_of_politics/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/02-principles_of_politics/</guid>
+      <guid>/course/substantive-series/02-principles_of_politics/</guid>
       <description>This is the &amp;ldquo;Political Culture&amp;rdquo; section of the &amp;ldquo;Principles of Politics&amp;rdquo; course led by Dr. MENG Tianguang. The lecture is still an ongoing project. More materials will be available soon.&#xA;Preview Slides TBA</description>
     </item>
   </channel>
