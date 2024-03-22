@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inequality on Hu Yue</title>
+    <title>inequality on Hu Yue</title>
     <link>/categories/inequality/</link>
-    <description>Recent content in Inequality on Hu Yue</description>
+    <description>Recent content in inequality on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/inequality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perceptive Inequality       
 不平等认知
 </title>
       <link>/project/inequality/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>/project/inequality/</guid>
       <description>This project delves into socioeconomic disparities, examining the systematic differences in income, assets, mobility, and access to resources among citizens. Our team is interested in the impact, pathways, and mechanisms of this structural property on the political decisions and behaviors of individuals and groups. Specifically, the project seeks to understand the dimensions of inequality that people recognize and how this recognition influences their political awareness, preferences, and choices. Furthermore, it investigates the origins of the public&amp;rsquo;s perceptions of inequality: what&amp;mdash;or perhaps who&amp;mdash;influence these perceptions?</description>
     </item>
+    
   </channel>
 </rss>

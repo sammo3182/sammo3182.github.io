@@ -1,76 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on Hu Yue</title>
+    <title>teaching on Hu Yue</title>
     <link>/categories/teaching/</link>
-    <description>Recent content in Teaching on Hu Yue</description>
+    <description>Recent content in teaching on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of Political Data | 政治数据分析 (70700173)</title>
       <link>/course/method-series/01-analysis_of_poli_data/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/method-series/01-analysis_of_poli_data/</guid>
       <description>Analysis of political data is a gateway course of political methodology and is compulsory for students in Political Science. The course introduces students to statistical and econometric knowledge for the analysis of quantitative data and provides a basis for more advanced statistical methods. After covering the fundamental concepts of statistics, such as probability and distributions, we will explore the classical normal linear regression model and its assumptions. We will also discuss the consequences and remedies for violations of these assumptions, including omitted variables, heteroscedasticity, autocorrelation, and endogeneity.</description>
     </item>
+    
     <item>
       <title>Analysis of Public Policy | 公共政策分析 (30700953)</title>
       <link>/course/substantive-series/01-analysis_of_public_policy/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
       <description>Analysis of Public Policy: Perspectives and Methods focuses on empirical policy evaluation. The course introduces a political scientist view and a series of modern empirical methods into public policy analyses. Students will learn not only the fundamental analytic theories for public policy evaluation but also tools such as case study, survey, experiments, and big-data analysis, that can be used to analyze different types of policies. In every topic, we will include real-life cases to illustrate how the theories and method can be applied.</description>
     </item>
+    
     <item>
       <title>Understanding Policies | 理解公共政策 (10700193)</title>
       <link>/course/substantive-series/01-understanding_public_policy/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/substantive-series/01-understanding_public_policy/</guid>
       <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Understanding Public Policies: Interdisciplinary Perspectives and Case Illustrations is the place you cultivate this quality.</description>
     </item>
+    
     <item>
       <title>Learning R with Dr. Hu and His Friends | 计算社会科学编程语言证书项目（R语言)</title>
       <link>/course/method-series/03-r-workshop/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/method-series/03-r-workshop/</guid>
       <description>I created the &amp;ldquo;Learning R with Dr. Hu and His Friends&amp;rdquo; workshop series to help students without programming background to enjoy the convenience and efficiency programming (esp. based on R) can brings to their academic lives. The workshop series include 18 episodes that covers topics from fundamental data cleaning to Bayesian analysis and machine learning. This is a year-long program and free to access by all the Tsinghua community offline and others online.</description>
     </item>
+    
     <item>
       <title>Urban Politics | 城市政治学</title>
       <link>/course/substantive-series/03-urban-politics/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/substantive-series/03-urban-politics/</guid>
-      <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.&#xA;Preview Slides TBA</description>
+      <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.
+Preview Slides     TBA</description>
     </item>
+    
     <item>
       <title>Governance Big Data | 政务大数据</title>
       <link>/course/method-series/02-goverance_big_data/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/method-series/02-goverance_big_data/</guid>
-      <description>Course about how to use big data to investigate governance issues. This is an advanced method course. Recommend students who already finished Analysis of Political Data (70700173) or basic statistics/econometric to take. I co-instructed the course with Dr. MENG Tianguang. The following list are the lectures I usually give for this course:&#xA;Research Principles and Method Basis for Big Data Analysis Leading the Focus: Data Visualization Latent Variable Basic Latent Variable Advanced Duration Analysis Foundations of Text Analysis Text Analysis in Practice Network Analysis: A Methodological Shift Network Analysis: Ego and Complete Network Analysis 本课程拟开设出面向全校社会科学和管理学专业研究生层次的大数据分析应用型课程。课程内容将横跨社会科学和数据科学两个研究领域，涵盖政治学、社会学、管理学、统计学、数据科学等多个学科的理论知识和实用技术。课程目的在于提高大数据时代学生的数据应用意识、建立数据思维、了解前沿方法，以及掌握有关数据采集、处理、分析和解释的基本原理和方法。课程将结合公共管理、司法开放、政治传播、社会治理等政务大数据应用的实际案例，提升学生对大数据方法的应用能力，为学生将大数据方法应用于具体研究打下基础。</description>
+      <description>Course about how to use big data to investigate governance issues. This is an advanced method course. Recommend students who already finished Analysis of Political Data (70700173) or basic statistics/econometric to take. I co-instructed the course with Dr. MENG Tianguang. The following list are the lectures I usually give for this course:
+ Research Principles and Method Basis for Big Data Analysis Leading the Focus: Data Visualization Latent Variable Basic Latent Variable Advanced Duration Analysis Foundations of Text Analysis Text Analysis in Practice Network Analysis: A Methodological Shift Network Analysis: Ego and Complete Network Analysis  本课程拟开设出面向全校社会科学和管理学专业研究生层次的大数据分析应用型课程。课程内容将横跨社会科学和数据科学两个研究领域，涵盖政治学、社会学、管理学、统计学、数据科学等多个学科的理论知识和实用技术。课程目的在于提高大数据时代学生的数据应用意识、建立数据思维、了解前沿方法，以及掌握有关数据采集、处理、分析和解释的基本原理和方法。课程将结合公共管理、司法开放、政治传播、社会治理等政务大数据应用的实际案例，提升学生对大数据方法的应用能力，为学生将大数据方法应用于具体研究打下基础。</description>
     </item>
+    
     <item>
       <title>Political Culture | 政治文化</title>
       <link>/course/substantive-series/02-principles_of_politics/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>/course/substantive-series/02-principles_of_politics/</guid>
-      <description>This is the &amp;ldquo;Political Culture&amp;rdquo; section of the &amp;ldquo;Principles of Politics&amp;rdquo; course led by Dr. MENG Tianguang. The lecture is still an ongoing project. More materials will be available soon.&#xA;Preview Slides TBA</description>
+      <description>This is the &amp;ldquo;Political Culture&amp;rdquo; section of the &amp;ldquo;Principles of Politics&amp;rdquo; course led by Dr. MENG Tianguang. The lecture is still an ongoing project. More materials will be available soon.
+Preview Slides     TBA</description>
     </item>
+    
+    <item>
+      <title>Method Courses for &#34;Non-Math&#34; Students</title>
+      <link>/course/method-series/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/method-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+    <item>
+      <title>Political Science: Substantive Topics</title>
+      <link>/course/substantive-series/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/course/substantive-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
     <item>
       <title>drhur</title>
       <link>/software/drhur/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>/software/drhur/</guid>
-      <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).&#xA;drhur is pedagogical software make the R learners&amp;rsquo; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.&#xA;To install:&#xA;the latest release version: install.packages(&amp;quot;drhur&amp;quot;). the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;). More details are available at here:</description>
+      <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).
+  drhur is pedagogical software make the R learners&#39; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
+To install:
+ the latest release version: install.packages(&amp;quot;drhur&amp;quot;).   the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;).</description>
     </item>
+    
     <item>
       <title>drhutools</title>
       <link>/software/drhutools/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>/software/drhutools/</guid>
-      <description>&#xD;A toolbox for writing an academic paper with rmarkdown. The tools includes data analyses, visualization, and documenting.&#xA;To install:&#xA;the latest released version: install.packages(&amp;quot;drhutools&amp;quot;). the latest developing version: remotes::install_github(&amp;quot;sammo3182/drhutools&amp;quot;). </description>
+      <description>A toolbox for writing an academic paper with rmarkdown. The tools includes data analyses, visualization, and documenting.
+To install:
+ the latest released version: install.packages(&amp;quot;drhutools&amp;quot;). the latest developing version: remotes::install_github(&amp;quot;sammo3182/drhutools&amp;quot;).  </description>
     </item>
+    
   </channel>
 </rss>
