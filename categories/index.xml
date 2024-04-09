@@ -7,123 +7,98 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>identity</title>
+      <title>Identity</title>
       <link>/categories/identity/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/identity/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inequality</title>
+      <title>Inequality</title>
       <link>/categories/inequality/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/inequality/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>language</title>
+      <title>Language</title>
       <link>/categories/language/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/language/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>methodology</title>
+      <title>Methodology</title>
       <link>/categories/methodology/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/methodology/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>political communication</title>
+      <title>Political Communication</title>
       <link>/categories/political-communication/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/political-communication/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>political opinions</title>
+      <title>Political Opinions</title>
       <link>/categories/political-opinions/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/political-opinions/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public opinion</title>
+      <title>Public Opinion</title>
       <link>/categories/public-opinion/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/public-opinion/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public opinions</title>
+      <title>Public Opinions</title>
       <link>/categories/public-opinions/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/public-opinions/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public policy</title>
+      <title>Public Policy</title>
       <link>/categories/public-policy/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/public-policy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>teaching</title>
+      <title>Teaching</title>
       <link>/categories/teaching/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/teaching/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>visualization</title>
+      <title>Visualization</title>
       <link>/categories/visualization/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>/categories/visualization/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cleaning</title>
+      <title>Cleaning</title>
       <link>/categories/cleaning/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/categories/cleaning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data</title>
+      <title>Data</title>
       <link>/categories/data/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>/categories/data/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
