@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Identity on Hu Yue</title>
-    <link>//localhost:4321/categories/identity/</link>
+    <link>/categories/identity/</link>
     <description>Recent content in Identity on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/identity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Political Involvement       
 政治“内卷”
 </title>
-      <link>//localhost:4321/project/poliinvolve/</link>
+      <link>/project/poliinvolve/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/poliinvolve/</guid>
+      <guid>/project/poliinvolve/</guid>
       <description>This project focuses on the structure of political engagements and their resonance within contemporary society. We investigate the construction of political interests and cognition among today&amp;rsquo;s citizens, their modes of political participation in the digital era, and the interplay between public attitudes, opinions, and the processes of politicization and modernization. This project is particularly concerned with the implications of public expression and involvement in sociopolitical matters for the individuals involved, as well as for society and the state at large.</description>
     </item>
   </channel>

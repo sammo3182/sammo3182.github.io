@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cleaning on Hu Yue</title>
-    <link>//localhost:4321/categories/cleaning/</link>
+    <link>/categories/cleaning/</link>
     <description>Recent content in Cleaning on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/cleaning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>regioncode</title>
-      <link>//localhost:4321/software/regioncode/</link>
+      <link>/software/regioncode/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/software/regioncode/</guid>
+      <guid>/software/regioncode/</guid>
       <description>Hu, Yue et al. 2020. regioncode: Convert Region Names and Division Codes of China Over Years. The Comprehensive R Archive Network (CRAN).&#xA;Inspired by Vincent Arel-Bundock&amp;rsquo;s well-known countrycode, we created regioncode to achieve similar functions specifically for China studies. regioncode enables seamlessly converting regions&amp;rsquo; formal names, common-used names, and administrative division codes between each other.&#xA;To install:&#xA;the latest released version: install.packages(&amp;quot;regioncode&amp;quot;). the latest developing version: remotes::install_github(&amp;quot;sammo3182/regioncode&amp;quot;). More details are available at:</description>
     </item>
   </channel>
