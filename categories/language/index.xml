@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language on Hu Yue</title>
-    <link>/categories/language/</link>
+    <link>//localhost:4321/categories/language/</link>
     <description>Recent content in Language on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/language/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Political Linguistics   
 政治语言学
 </title>
-      <link>/project/polilingua/</link>
+      <link>//localhost:4321/project/polilingua/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project/polilingua/</guid>
+      <guid>//localhost:4321/project/polilingua/</guid>
       <description>Language stands as a quintessential attribute of humanity. The enduring debate over whether language shapes thought or vice versa has captivated the greatest minds across history. Yet, the role of language in the political sphere remains underexplored.&#xA;Approaching from an empirical perspective, this project aims to uncover the impacts of linguistic relativity and language policy on the dynamics between government and the public, as well as on the formation and reformation of collective political consciousness.</description>
     </item>
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Opinion on Hu Yue</title>
-    <link>/categories/public-opinion/</link>
+    <link>//localhost:4321/categories/public-opinion/</link>
     <description>Recent content in Public Opinion on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/public-opinion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/public-opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perceptive Inequality       
 不平等认知
 </title>
-      <link>/project/inequality/</link>
+      <link>//localhost:4321/project/inequality/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project/inequality/</guid>
+      <guid>//localhost:4321/project/inequality/</guid>
       <description>This project delves into socioeconomic disparities, examining the systematic differences in income, assets, mobility, and access to resources among citizens. Our team is interested in the impact, pathways, and mechanisms of this structural property on the political decisions and behaviors of individuals and groups. Specifically, the project seeks to understand the dimensions of inequality that people recognize and how this recognition influences their political awareness, preferences, and choices. Furthermore, it investigates the origins of the public&amp;rsquo;s perceptions of inequality: what&amp;mdash;or perhaps who&amp;mdash;influence these perceptions?</description>
     </item>
     <item>
       <title>State and its Audience    
 国家与它的受众
 </title>
-      <link>/project/policommu/</link>
+      <link>//localhost:4321/project/policommu/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project/policommu/</guid>
+      <guid>//localhost:4321/project/policommu/</guid>
       <description>Individuals are not passive in their responses to the dominant cultural actions of their own and other countries. Despite appearing significantly weaker in the face of powerful state propaganda machinery, they retain sufficient agency to identify and understand political propaganda, and to some extent, influence its impact on themselves. We are particularly interested in how this process from the macro to the micro level is realized. This interest distinguishes our research team&amp;rsquo;s perspective from the political communication and political socialization studies that focus primarily on the state side and commnicational paths.</description>
     </item>
   </channel>
