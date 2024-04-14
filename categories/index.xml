@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hu Yue</title>
-    <link>/categories/</link>
+    <link>//localhost:4321/categories/</link>
     <description>Recent content in Categories on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identity</title>
-      <link>/categories/identity/</link>
+      <link>//localhost:4321/categories/identity/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/identity/</guid>
+      <guid>//localhost:4321/categories/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Inequality</title>
-      <link>/categories/inequality/</link>
+      <link>//localhost:4321/categories/inequality/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/inequality/</guid>
+      <guid>//localhost:4321/categories/inequality/</guid>
       <description></description>
     </item>
     <item>
       <title>Language</title>
-      <link>/categories/language/</link>
+      <link>//localhost:4321/categories/language/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/language/</guid>
+      <guid>//localhost:4321/categories/language/</guid>
       <description></description>
     </item>
     <item>
       <title>Methodology</title>
-      <link>/categories/methodology/</link>
+      <link>//localhost:4321/categories/methodology/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/methodology/</guid>
+      <guid>//localhost:4321/categories/methodology/</guid>
       <description></description>
     </item>
     <item>
       <title>Political Communication</title>
-      <link>/categories/political-communication/</link>
+      <link>//localhost:4321/categories/political-communication/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/political-communication/</guid>
+      <guid>//localhost:4321/categories/political-communication/</guid>
       <description></description>
     </item>
     <item>
       <title>Political Opinions</title>
-      <link>/categories/political-opinions/</link>
+      <link>//localhost:4321/categories/political-opinions/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/political-opinions/</guid>
+      <guid>//localhost:4321/categories/political-opinions/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Opinion</title>
-      <link>/categories/public-opinion/</link>
+      <link>//localhost:4321/categories/public-opinion/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/public-opinion/</guid>
+      <guid>//localhost:4321/categories/public-opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Opinions</title>
-      <link>/categories/public-opinions/</link>
+      <link>//localhost:4321/categories/public-opinions/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/public-opinions/</guid>
+      <guid>//localhost:4321/categories/public-opinions/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Policy</title>
-      <link>/categories/public-policy/</link>
+      <link>//localhost:4321/categories/public-policy/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/public-policy/</guid>
+      <guid>//localhost:4321/categories/public-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>/categories/teaching/</link>
+      <link>//localhost:4321/categories/teaching/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/teaching/</guid>
+      <guid>//localhost:4321/categories/teaching/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>/categories/visualization/</link>
+      <link>//localhost:4321/categories/visualization/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/categories/visualization/</guid>
+      <guid>//localhost:4321/categories/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Cleaning</title>
-      <link>/categories/cleaning/</link>
+      <link>//localhost:4321/categories/cleaning/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/categories/cleaning/</guid>
+      <guid>//localhost:4321/categories/cleaning/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>/categories/data/</link>
+      <link>//localhost:4321/categories/data/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/categories/data/</guid>
+      <guid>//localhost:4321/categories/data/</guid>
       <description></description>
     </item>
   </channel>
