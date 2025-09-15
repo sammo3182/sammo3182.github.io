@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Identity on Hu Yue</title>
-    <link>//localhost:4321/categories/identity/</link>
+    <link>/categories/identity/</link>
     <description>Recent content in Identity on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/identity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Political Involvement       
 政治“内卷”
 </title>
-      <link>//localhost:4321/project/poliinvolve/</link>
+      <link>/project/poliinvolve/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/poliinvolve/</guid>
-      <description>This project focuses on the structure of political engagements and their resonance within contemporary society. We investigate the construction of political interests and cognition among today&amp;rsquo;s citizens, their modes of political participation in the digital era, and the interplay between public attitudes, opinions, and the processes of politicization and modernization. This project is particularly concerned with the implications of public expression and involvement in sociopolitical matters for the individuals involved, as well as for society and the state at large.</description>
+      <guid>/project/poliinvolve/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;350&#34; height = &#34;250&#34; align=&#34;left&#34; /&gt;&#xA;&lt;p&gt;This project focuses on the structure of political engagements and their resonance within contemporary society.&#xA;We investigate the construction of political interests and cognition among today&amp;rsquo;s citizens, their modes of political participation in the digital era, and the interplay between public attitudes, opinions, and the processes of politicization and modernization.&#xA;This project is particularly concerned with the implications of public expression and involvement in sociopolitical matters for the individuals involved, as well as for society and the state at large.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

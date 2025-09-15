@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Opinions on Hu Yue</title>
-    <link>//localhost:4321/categories/public-opinions/</link>
+    <link>/categories/public-opinions/</link>
     <description>Recent content in Public Opinions on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/public-opinions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/public-opinions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Political Linguistics   
 政治语言学
 </title>
-      <link>//localhost:4321/project/polilingua/</link>
+      <link>/project/polilingua/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/polilingua/</guid>
-      <description>Language stands as a quintessential attribute of humanity. The enduring debate over whether language shapes thought or vice versa has captivated the greatest minds across history. Yet, the role of language in the political sphere remains underexplored.&#xA;Approaching from an empirical perspective, this project aims to uncover the impacts of linguistic relativity and language policy on the dynamics between government and the public, as well as on the formation and reformation of collective political consciousness.</description>
+      <guid>/project/polilingua/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;260&#34; height = &#34;200&#34; align=&#34;right&#34; /&gt;&#xA;&lt;p&gt;Language stands as a quintessential attribute of humanity.&#xA;The enduring debate over whether language shapes thought or vice versa has captivated the greatest minds across history.&#xA;Yet, the role of language in the political sphere remains underexplored.&lt;/p&gt;&#xA;&lt;p&gt;Approaching from an empirical perspective, this project aims to uncover the impacts of linguistic relativity and language policy on the dynamics between government and the public, as well as on the formation and reformation of collective political consciousness.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

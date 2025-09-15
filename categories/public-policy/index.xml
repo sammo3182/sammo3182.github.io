@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Policy on Hu Yue</title>
-    <link>//localhost:4321/categories/public-policy/</link>
+    <link>/categories/public-policy/</link>
     <description>Recent content in Public Policy on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/public-policy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/public-policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of Public Policy | 公共政策分析 (30700953)</title>
-      <link>//localhost:4321/course/substantive-series/01-analysis_of_public_policy/</link>
+      <link>/course/substantive-series/01-analysis_of_public_policy/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/01-analysis_of_public_policy/</guid>
-      <description>Analysis of Public Policy: Perspectives and Methods focuses on empirical policy evaluation. The course introduces a political scientist view and a series of modern empirical methods into public policy analyses. Students will learn not only the fundamental analytic theories for public policy evaluation but also tools such as case study, survey, experiments, and big-data analysis, that can be used to analyze different types of policies. In every topic, we will include real-life cases to illustrate how the theories and method can be applied.</description>
+      <guid>/course/substantive-series/01-analysis_of_public_policy/</guid>
+      <description>&lt;img src=&#34;featured.gif&#34; width = &#34;350&#34; height = &#34;330&#34;  align=&#34;right&#34; /&gt;&#xA;&lt;p&gt;Analysis of Public Policy: Perspectives and Methods focuses on empirical policy evaluation.&#xA;The course introduces a political scientist view and a series of modern empirical methods into public policy analyses.&#xA;Students will learn not only the fundamental analytic theories for public policy evaluation but also tools such as case study, survey, experiments, and big-data analysis, that can be used to analyze different types of policies.&#xA;In every topic, we will include real-life cases to illustrate how the theories and method can be applied.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Policies | 理解公共政策 (10700193)</title>
-      <link>//localhost:4321/course/substantive-series/01-understanding_public_policy/</link>
+      <link>/course/substantive-series/01-understanding_public_policy/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/01-understanding_public_policy/</guid>
-      <description>Policies are everywhere in the modern society. They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals. In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders. Understanding Public Policies: Interdisciplinary Perspectives and Case Illustrations is the place you cultivate this quality.</description>
+      <guid>/course/substantive-series/01-understanding_public_policy/</guid>
+      <description>&lt;img src=&#34;featured.gif&#34; width = &#34;350&#34; height = &#34;330&#34;  align=&#34;right&#34; /&gt;&#xA;&lt;p&gt;Policies are everywhere in the modern society.&#xA;They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals.&#xA;In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders.&#xA;&lt;em&gt;Understanding Public Policies: Interdisciplinary Perspectives and Case Illustrations&lt;/em&gt; is the place you cultivate this quality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Urban Politics | 城市政治学</title>
-      <link>//localhost:4321/course/substantive-series/03-urban-politics/</link>
+      <link>/course/substantive-series/03-urban-politics/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/course/substantive-series/03-urban-politics/</guid>
-      <description>This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.&#xA;Preview Slides TBA</description>
+      <guid>/course/substantive-series/03-urban-politics/</guid>
+      <description>&lt;img src=&#34;featured.gif&#34; width = &#34;300&#34; height = &#34;250&#34;  align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;This course concentrates on the dominant force of human modernization&amp;mdash;the cities. From  a view of political science, the course discuss the macro and micro politics among heterogeneous cities together with specific topics of urban governance. The course is on building. More information will be available soon.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;preview-slides&#34;&gt;Preview Slides&#xA;  &lt;a href=&#34;#preview-slides&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;TBA&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Involvement       
 政治“内卷”
 </title>
-      <link>//localhost:4321/project/poliinvolve/</link>
+      <link>/project/poliinvolve/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/poliinvolve/</guid>
-      <description>This project focuses on the structure of political engagements and their resonance within contemporary society. We investigate the construction of political interests and cognition among today&amp;rsquo;s citizens, their modes of political participation in the digital era, and the interplay between public attitudes, opinions, and the processes of politicization and modernization. This project is particularly concerned with the implications of public expression and involvement in sociopolitical matters for the individuals involved, as well as for society and the state at large.</description>
+      <guid>/project/poliinvolve/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;350&#34; height = &#34;250&#34; align=&#34;left&#34; /&gt;&#xA;&lt;p&gt;This project focuses on the structure of political engagements and their resonance within contemporary society.&#xA;We investigate the construction of political interests and cognition among today&amp;rsquo;s citizens, their modes of political participation in the digital era, and the interplay between public attitudes, opinions, and the processes of politicization and modernization.&#xA;This project is particularly concerned with the implications of public expression and involvement in sociopolitical matters for the individuals involved, as well as for society and the state at large.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Linguistics   
 政治语言学
 </title>
-      <link>//localhost:4321/project/polilingua/</link>
+      <link>/project/polilingua/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/polilingua/</guid>
-      <description>Language stands as a quintessential attribute of humanity. The enduring debate over whether language shapes thought or vice versa has captivated the greatest minds across history. Yet, the role of language in the political sphere remains underexplored.&#xA;Approaching from an empirical perspective, this project aims to uncover the impacts of linguistic relativity and language policy on the dynamics between government and the public, as well as on the formation and reformation of collective political consciousness.</description>
+      <guid>/project/polilingua/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;260&#34; height = &#34;200&#34; align=&#34;right&#34; /&gt;&#xA;&lt;p&gt;Language stands as a quintessential attribute of humanity.&#xA;The enduring debate over whether language shapes thought or vice versa has captivated the greatest minds across history.&#xA;Yet, the role of language in the political sphere remains underexplored.&lt;/p&gt;&#xA;&lt;p&gt;Approaching from an empirical perspective, this project aims to uncover the impacts of linguistic relativity and language policy on the dynamics between government and the public, as well as on the formation and reformation of collective political consciousness.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on Hu Yue</title>
-    <link>//localhost:4321/categories/data/</link>
+    <link>/categories/data/</link>
     <description>Recent content in Data on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pewdata</title>
-      <link>//localhost:4321/software/pewdata/</link>
+      <link>/software/pewdata/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/software/pewdata/</guid>
-      <description>Solt, Frederick, and Yue Hu. 2016. pewdata: Reproducible Retrieval of Pew Research Center Datasets. The Comprehensive R Archive Network (CRAN).&#xA;pewdata is an R package that provides reproducible, programmatic access to survey datasets from the Pew Research Center.&#xA;To install:&#xA;the latest released version: install.packages(&amp;quot;pewdata&amp;quot;) the latest development version: if (!require(ghit)) install.packages(&amp;#34;ghit&amp;#34;) ghit::install_github(&amp;#34;fsolt/pewdata&amp;#34;) Note that pewdata depends on the Firefox browser; if you don&amp;rsquo;t already have it installed on your machine, get it here.</description>
+      <guid>/software/pewdata/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;134.435&#34; height = &#34;155.25&#34;  align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;Solt, Frederick, and &lt;strong&gt;Yue Hu&lt;/strong&gt;. 2016. pewdata: Reproducible Retrieval of Pew Research Center Datasets. The Comprehensive R Archive Network (CRAN).&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://cran.r-project.org/package=pewdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.r-pkg.org/badges/version/pewdata&#34; alt=&#34;CRAN version&#34;&gt;&lt;/a&gt;&#xA;&lt;img src=&#34;http://cranlogs.r-pkg.org/badges/grand-total/pewdata&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://cranlogs.r-pkg.org/badges/pewdata?color=orange&#34; alt=&#34;&#34;&gt;&#xA;&#xA;&lt;a href=&#34;https://travis-ci.org/fsolt/pewdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://travis-ci.org/fsolt/pewdata.svg?branch=master&#34; alt=&#34;Travis-CI Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;pewdata&lt;/code&gt; is an R package that provides reproducible, programmatic access to survey datasets from the &#xA;&lt;a href=&#34;http://www.pewresearch.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pew Research Center&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To install:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the latest released version: &lt;code&gt;install.packages(&amp;quot;pewdata&amp;quot;)&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;the latest development version:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cf222e&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#0550ae&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#6639ba&#34;&gt;require&lt;/span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;(&lt;/span&gt;ghit&lt;span style=&#34;color:#1f2328&#34;&gt;))&lt;/span&gt; &lt;span style=&#34;color:#6639ba&#34;&gt;install.packages&lt;/span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#0a3069&#34;&gt;&amp;#34;ghit&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ghit&lt;span style=&#34;color:#0550ae&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#6639ba&#34;&gt;install_github&lt;/span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#0a3069&#34;&gt;&amp;#34;fsolt/pewdata&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that &lt;code&gt;pewdata&lt;/code&gt; depends on the Firefox browser; if you don&amp;rsquo;t already have it installed on your machine, &#xA;&lt;a href=&#34;https://www.mozilla.org/firefox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get it here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

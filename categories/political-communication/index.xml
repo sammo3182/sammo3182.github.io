@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Political Communication on Hu Yue</title>
-    <link>//localhost:4321/categories/political-communication/</link>
+    <link>/categories/political-communication/</link>
     <description>Recent content in Political Communication on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/political-communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/political-communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State and its Audience    
 国家与它的受众
 </title>
-      <link>//localhost:4321/project/policommu/</link>
+      <link>/project/policommu/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/policommu/</guid>
-      <description>Individuals are not passive in their responses to the dominant cultural actions of their own and other countries. Despite appearing significantly weaker in the face of powerful state propaganda machinery, they retain sufficient agency to identify and understand political propaganda, and to some extent, influence its impact on themselves. We are particularly interested in how this process from the macro to the micro level is realized. This interest distinguishes our research team&amp;rsquo;s perspective from the political communication and political socialization studies that focus primarily on the state side and commnicational paths.</description>
+      <guid>/project/policommu/</guid>
+      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;260&#34; height = &#34;330&#34; align=&#34;right&#34; /&gt;&#xA;&lt;p&gt;Individuals are not passive in their responses to the dominant cultural actions of their own and other countries.&#xA;Despite appearing significantly weaker in the face of powerful state propaganda machinery, they retain sufficient agency to &lt;strong&gt;identify&lt;/strong&gt; and &lt;strong&gt;understand&lt;/strong&gt; political propaganda, and to some extent, &lt;strong&gt;influence&lt;/strong&gt; its impact on themselves.&#xA;We are particularly interested in how this process from the macro to the micro level is realized.&#xA;This interest distinguishes our research team&amp;rsquo;s perspective from the political communication and political socialization studies that focus primarily on the state side and commnicational paths.&#xA;Our work delves deeper into the receivers&amp;rsquo; responses, exploring their feelings, comprehension, and actions in response to political messages from the government.&#xA;A fundamental yet complex question underpins this research: who constitutes the audience for the state authority (in media environment, formal and informal education, international society) and why?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

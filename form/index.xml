@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forms on Hu Yue</title>
-    <link>//localhost:4321/form/</link>
+    <link>/form/</link>
     <description>Recent content in Forms on Hu Yue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate>
-    <atom:link href="//localhost:4321/form/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/form/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>//localhost:4321/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      <guid>//localhost:4321/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;** Contact page don&amp;rsquo;t contain a body, just the front matter above.&#xA;See form.html in the layouts folder.&lt;/p&gt;&#xA;&lt;p&gt;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.&#xA;**&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
