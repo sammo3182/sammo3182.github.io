@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.124.0">
+<title>Text Analysis | 自然语言处理 | Hu Yue</title>
+
+
+<meta property="twitter:site" content="@yuehupolisci">
+<meta property="twitter:creator" content="@yuehupolisci">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="Data Science and Text Analysis | 香港城市大学 CAMS">
+
+
+<meta property="og:site_name" content="Hu Yue">
+<meta property="og:title" content="Text Analysis | 自然语言处理 | Hu Yue">
+<meta property="og:description" content="Data Science and Text Analysis | 香港城市大学 CAMS" />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="/course/method-series/05-text_analysis/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="/course/method-series/05-text_analysis/featured-hex.png" >
+        <meta property="twitter:card" content="summary">
+        <meta name="twitter:image" content="/course/method-series/05-text_analysis/featured-hex.png" >
+    
+    
+  <meta itemprop="name" content="Text Analysis | 自然语言处理">
+<meta itemprop="description" content="Graduate course 研究生课程 · CAMS, City University of Hong Kong 香港城市大学 · No prerequisites 无先修要求
+Can a machine tell you who holds power in a room without understanding a word that is said? Can &ldquo;king&rdquo; minus &ldquo;man&rdquo; plus &ldquo;woman&rdquo; really arrive at &ldquo;queen&rdquo;? And in an age when a language model will read and write for you on request, is there any reason left to learn how machines read at all?"><meta itemprop="datePublished" content="2026-08-16T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2026-08-16T00:00:00+00:00" />
+<meta itemprop="wordCount" content="309"><meta itemprop="image" content="/course/method-series/05-text_analysis/featured-hex.png" />
+<meta itemprop="keywords" content="" />
+  
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="/img/logo.ico" type="image/x-icon">
+  <link rel="icon" href="/img/logo.ico" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.21ad9c1e208f3212055227765985378683d807141cf769d9e7a29de7ba7aade1.css" integrity="sha256-Ia2cHiCPMhIFUid2WYU3hoPYBxQc92nZ56Kd57p6reE=" media="screen">
+  
+  
+  <script src="/panelset.min.ed1ac24b6e16f4e2481e3d1d098ae66f5bc77438aef619e6e266d8ac5b00dc72.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.b5cb419646a6cce723bbbd6b694720f3888982fe326ae9b383862c12984a29b5.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container single-series">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="/" title="Home">
+      <img src="/img/logo.jpg" class="dib db-l h2 w-auto" alt="Hu Yue">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About 关于我">About 关于我</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/publication/" title="Academic Publications 学术发表">Publications 发表</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Researching Projects 研究项目">Projects 项目</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/software/" title="Software 软件">Software 软件</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/course/" title="Course Intro 教学信息">Teaching 教学</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+                       
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 pl3-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Text Analysis | 自然语言处理</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Data Science and Text Analysis | 香港城市大学 CAMS</h4>
+        
+        
+      </header>
+      <section class="post-body pt5 pb4">
+        <img src="featured-hex.png" width = "134.435" height = "155.25" align="right" />
+<p><em>Graduate course 研究生课程 · CAMS, City University of Hong Kong 香港城市大学 · No prerequisites 无先修要求</em></p>
+<p>Can a machine tell you who holds power in a room without understanding a word that is said? Can &ldquo;king&rdquo; minus &ldquo;man&rdquo; plus &ldquo;woman&rdquo; really arrive at &ldquo;queen&rdquo;? And in an age when a language model will read and write for you on request, is there any reason left to learn how machines read at all? The course opens on those questions and spends the term answering them.</p>
+<p>Text Analysis moves in three stages: talk to the computer, teach the computer to read, then teach it to &ldquo;understand.&rdquo; The first stage covers R fundamentals and data visualization. The second turns text into data, beginning with the theory of text as evidence and continuing through scraping, regular expressions, and preprocessing. The third puts the data to work, through word frequency analysis, classification, and clustering, with a look past the bag-of-words assumption at the end. Students work in R with <code>drhur</code>, <code>rvest</code>, and <code>quanteda</code>.</p>
+<p>The course assumes nothing. A little econometrics or programming makes the term easier, but neither is required, and the students it was designed for are the ones who chose the humanities and social sciences precisely because they seemed free of mathematics. That premise is worth contesting. Most data work needs only elementary mathematics, since the computer does the arithmetic; what it needs is the decomposition of a messy problem into ordered steps, which is a humanities strength rather than a deficit. The harder argument concerns AI. A model will hand you code that runs, which is enough to get by, but judging whether that code is correct, current, and appropriate demands exactly the ability it appeared to make unnecessary. Whether you use the tool or the tool uses you turns on that difference.</p>
+<p>《自然语言处理》是我在香港城市大学CAMS开设的研究生课程，面向文科背景、没有编程经验的学生。课程从三个问题开始：在听不懂内容的情况下，能否判断说话者的身份与权力？“国王”减“男人”加“女人”是否真的约等于“女王”？在大语言模型代读代写的时代，人还有没有必要了解机器如何阅读？一个学期的内容，就是回答这三个问题。</p>
+<p>课程沿三个阶段推进：与计算机对话、教计算机阅读、教计算机“理解”。第一阶段讲授R语言基础与数据可视化；第二阶段完成文本到数据的转化，从文本作为证据的理论出发，依次处理数据抓取、正则表达式与文本预处理；第三阶段进入应用，涵盖词频分析、分类与聚类，并在最后越过词袋假设向前一望。全部操作基于R语言，使用<code>drhur</code>、<code>rvest</code>与<code>quanteda</code>。</p>
+<p>课程不设先修要求。学过一点计量或编程会让学习更轻松，但并非必要。事实上，本课的目标学生恰恰是当初因为“文科不用学数学”而选择人文社科的那一批人，而这个前提值得推敲。多数数据工作只需要基础数学，计算由机器完成；真正吃力的是把一个复杂问题拆解为清晰有序的步骤，而这正是文科训练的长处。更值得辨析的是AI。模型可以给出一段能运行的代码，足以应付眼前；但判断这段代码是否正确、是否为当下最优、是否适用于你的问题，所依赖的恰恰是它看似替代掉的那份能力。是你在用AI，还是AI在用你，分野就在这里。</p>
+
+
+
+
+<h3 id="course-materials-课程材料">Course Materials 课程材料
+  <a href="#course-materials-%e8%af%be%e7%a8%8b%e6%9d%90%e6%96%99"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>
+<a href="https://www.drhuyue.site/slides_gh/slides/courses/camsTextAnalysis/" target="_blank" rel="noopener">Lecture slides 课件</a></p>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="/course/method-series/03-professionalism/">Professionalism &amp; Competence in Social Science | 社会科学专业化与能力提升研讨课 &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
+
+<aside class="page-sidebar" role="complementary">
+                         
+ 
+
+
+                       
+ 
+
+
+
+
+
+
+
+
+
+
+
+  <img src="/course/method-series/sidebar-featured.jpg" class="db ma0">
+
+
+<div class="blog-info ph4 pt4 pb4 pb0-l">
+  
+
+  
+  
+  
+
+
+  
+
+</div>
+
+
+                         
+ 
+
+
+
+<div class="flex items-start sticky ph4 pb4">
+  <div class="w-two-thirds w-50-l ph0">
+    
+    <h2 class="mt3 mb3 f5 fw7 ttu tracked"><a class="no-underline dim" href="/course/method-series/">Method Courses for &#34;Non-Math&#34; Students</a></h2>
+    <nav id="SeriesTableOfContents">
+        <ul>
+        
+          
+          <li class="active" hugo-nav="/course/method-series/05-text_analysis/"><a href="/course/method-series/05-text_analysis/">Text Analysis | 自然语言处理</a></li>
+        
+          
+          <li class="" hugo-nav="/course/method-series/03-professionalism/"><a href="/course/method-series/03-professionalism/">Professionalism &amp; Competence in Social Science | 社会科学专业化与能力提升研讨课</a></li>
+        
+          
+          <li class="" hugo-nav="/course/method-series/01-analysis_of_poli_data/"><a href="/course/method-series/01-analysis_of_poli_data/">Analysis of Political Data | 治理技术专题：政治数据分析 (70700173)</a></li>
+        
+          
+          <li class="" hugo-nav="/course/method-series/04-r-workshop/"><a href="/course/method-series/04-r-workshop/">Learning R with Dr. Hu and His Friends | 计算社会科学编程语言证书项目（R语言)</a></li>
+        
+          
+          <li class="" hugo-nav="/course/method-series/02-governance_big_data/"><a href="/course/method-series/02-governance_big_data/">Governance Big Data | 政务大数据 (80700673)</a></li>
+        
+        </ul>
+      </nav>
+  </div>
+  
+</div>
+</aside>
+
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2026 HU Yue, Beijing, P.R. China
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-social-links db dtc-l v-mid w-100 w-33-l tc pv2 pv0-l mv0">
+      <div class="social-icon-links" aria-hidden="true">
+  
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="mailto:yuehu@tsinghua.edu.cn" title="envelope" >
+      <i class="fas fa-envelope fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://github.com/sammo3182" title="github" target="_blank" rel="me noopener">
+      <i class="fab fa-github fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://scholar.google.com/citations?user=7FQJnB0AAAAJ&amp;hl=en&amp;oi=ao" title="google-scholar" target="_blank" rel="me noopener">
+      <i class="ai ai-google-scholar fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://orcid.org/0000-0002-2829-3971" title="orcid" target="_blank" rel="me noopener">
+      <i class="ai ai-orcid fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://twitter.com/yuehupolisci" title="twitter" target="_blank" rel="me noopener">
+      <i class="fab fa-twitter fa-lg fa-fw"></i>
+    </a>
+  
+</div>
+
+    </div>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+    </div>
+  </nav>
+  
+</footer>
+
+      </div>
+    </body>
+</html>

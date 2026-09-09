@@ -4,38 +4,44 @@
     <title>Method Courses for &#34;Non-Math&#34; Students on Hu Yue</title>
     <link>/series/method-courses-for-non-math-students/</link>
     <description>Recent content in Method Courses for &#34;Non-Math&#34; Students on Hu Yue</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/series/method-courses-for-non-math-students/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analysis of Political Data | 政治数据分析 (70700173)</title>
+      <title>Text Analysis | 自然语言处理</title>
+      <link>/course/method-series/05-text_analysis/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/course/method-series/05-text_analysis/</guid>
+      <description>Graduate course 研究生课程 · CAMS, City University of Hong Kong 香港城市大学 · No prerequisites 无先修要求&#xA;Can a machine tell you who holds power in a room without understanding a word that is said? Can &amp;ldquo;king&amp;rdquo; minus &amp;ldquo;man&amp;rdquo; plus &amp;ldquo;woman&amp;rdquo; really arrive at &amp;ldquo;queen&amp;rdquo;? And in an age when a language model will read and write for you on request, is there any reason left to learn how machines read at all?</description>
+    </item>
+    <item>
+      <title>Professionalism &amp; Competence in Social Science | 社会科学专业化与能力提升研讨课</title>
+      <link>/course/method-series/03-professionalism/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/course/method-series/03-professionalism/</guid>
+      <description>Graduate seminar 研究生研讨课 · Eight weeks 八周 · Compulsory for Political Science doctoral students 政治学专业博士生必修&#xA;Large language models have already rewritten how researchers find literature, analyze data, and draft prose. The question is no longer whether to use them but where they belong, and where they do not. This seminar takes that question as its organizing problem, alongside the older one it cannot replace: what makes a piece of social science research professional.</description>
+    </item>
+    <item>
+      <title>Analysis of Political Data | 治理技术专题：政治数据分析 (70700173)</title>
       <link>/course/method-series/01-analysis_of_poli_data/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/course/method-series/01-analysis_of_poli_data/</guid>
-      <description>&lt;img src=&#34;featured.gif&#34; width = &#34;350&#34; height = &#34;330&#34;  align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;Analysis of political data is a gateway course of political methodology and is compulsory for students in Political Science.&#xA;The course introduces students to statistical and econometric knowledge for the analysis of quantitative data and provides a basis for more advanced statistical methods.&#xA;After covering the fundamental concepts of statistics, such as probability and distributions, we will explore the classical normal linear regression model and its assumptions.&#xA;We will also discuss the consequences and remedies for violations of these assumptions, including omitted variables, heteroscedasticity, autocorrelation, and endogeneity.&#xA;If time permits, we will further talk about the use and interpretation of continuous, ordinal, nominal, and indicator variables, variable interactions, missing data and basic models for limited dependent variables.&#xA;Along the way and primarily in the lab session, students will learn the basics of data collection, organization and management, measurement, data visualization and display, and univariate, bivariate and multivariate descriptive statistics in R.&lt;/p&gt;</description>
+      <description>Graduate course 研究生课程 · Tsinghua 70700173 · Compulsory for Political Science 政治学专业基础课&#xA;Tsinghua Quality Course 清华大学精品课&#xA;Analysis of Political Data is the gateway course of political methodology at Tsinghua, and it assumes no background in statistics or mathematics. The course equips students with one toolkit, running from univariate description to multivariate regression, and it insists throughout that a student understand why a method works before running it.&#xA;The first half covers the foundations: probability, distributions, sampling, confidence intervals, and hypothesis testing.</description>
     </item>
     <item>
       <title>Learning R with Dr. Hu and His Friends | 计算社会科学编程语言证书项目（R语言)</title>
       <link>/course/method-series/04-r-workshop/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/course/method-series/04-r-workshop/</guid>
-      <description>&lt;img src=&#34;featured-hex.png&#34; width = &#34;134.435&#34; height = &#34;155.25&#34; align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;I created the &amp;ldquo;Learning R with Dr. Hu and His Friends&amp;rdquo; workshop series to help students without programming background to enjoy the convenience and efficiency programming (esp. based on R) can brings to their academic lives.&#xA;The workshop series include 18 episodes that covers topics from fundamental data cleaning to Bayesian analysis and machine learning.&#xA;This is a year-long program and free to access by all the Tsinghua community offline and others online.&#xA;I also build up an R package &lt;code&gt;drhur&lt;/code&gt; to assist the lectures and off-course practices.&#xA;One can learn how to download and use the package from &#xA;&lt;a href=&#34;/software/drhur&#34;&gt;here&lt;/a&gt; or in its own &#xA;&lt;a href=&#34;https://sammo3182.github.io/drhur/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Professionalism &amp; Competence in Social Science | 社会科学专业化与能力提升研讨课</title>
-      <link>/course/method-series/03-professionalism/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/course/method-series/03-professionalism/</guid>
-      <description>&lt;img src=&#34;featured.png&#34; width = &#34;250&#34; height = &#34;200&#34;  align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;The Seminar aims to deepen students&amp;rsquo; grasp of social science research&amp;rsquo;s professional aspects and boost their academic and professional competitiveness.&#xA;The curriculum bifurcates into guiding dissertation development and enhancing personal ability demonstration in professional contexts, with a strong focus on political science for case studies.&#xA;This compulsory course for political science graduate students also welcomes other social sciences, promoting interdisciplinary synergy to foster talents for the interdisciplinary-AI era.&lt;/p&gt;</description>
+      <description>Open workshop series 公开工作坊 · Year-long 一年期 · Free to attend 免费开放&#xA;I created the Learning R with Dr. Hu and His Friends workshop series so that students with no programming background could enjoy the convenience and efficiency that programming brings to academic life. The series runs eighteen episodes, from fundamental data cleaning through to Bayesian analysis and machine learning. It is a year-long program, free to the whole Tsinghua community offline and to everyone else online.</description>
     </item>
     <item>
       <title>Governance Big Data | 政务大数据 (80700673)</title>
-      <link>/course/method-series/02-goverance_big_data/</link>
+      <link>/course/method-series/02-governance_big_data/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>/course/method-series/02-goverance_big_data/</guid>
-      <description>&lt;img src=&#34;featured.jpg&#34; width = &#34;250&#34; height = &#34;200&#34;  align=&#34;right&#34; /&gt;&#xD;&#xA;&lt;p&gt;Course about how to use big data to investigate governance issues.&#xA;This is an advanced method course. Recommend students who already finished Analysis of Political Data (70700173) or basic statistics/econometric to take.&#xA;I co-instructed the course with Dr. MENG Tianguang.&#xA;The following list are the lectures I usually give for this course:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Research Principles and Method Basis for Big Data Analysis&lt;/li&gt;&#xA;&lt;li&gt;Leading the Focus: Data Visualization&lt;/li&gt;&#xA;&lt;li&gt;Latent Variable Basic&lt;/li&gt;&#xA;&lt;li&gt;Latent Variable Advanced&lt;/li&gt;&#xA;&lt;li&gt;Duration Analysis&lt;/li&gt;&#xA;&lt;li&gt;Foundations of Text Analysis&lt;/li&gt;&#xA;&lt;li&gt;Text Analysis in Practice&lt;/li&gt;&#xA;&lt;li&gt;Network Analysis: A Methodological Shift&lt;/li&gt;&#xA;&lt;li&gt;Network Analysis: Ego and Complete Network Analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;本课程拟开设出面向全校社会科学和管理学专业研究生层次的大数据分析应用型课程。课程内容将横跨社会科学和数据科学两个研究领域，涵盖政治学、社会学、管理学、统计学、数据科学等多个学科的理论知识和实用技术。课程目的在于提高大数据时代学生的数据应用意识、建立数据思维、了解前沿方法，以及掌握有关数据采集、处理、分析和解释的基本原理和方法。课程将结合公共管理、司法开放、政治传播、社会治理等政务大数据应用的实际案例，提升学生对大数据方法的应用能力，为学生将大数据方法应用于具体研究打下基础。&lt;/p&gt;</description>
+      <guid>/course/method-series/02-governance_big_data/</guid>
+      <description>Graduate course 研究生课程 · Tsinghua 80700673 · Co-taught with MENG Tianguang 与孟天广教授合开&#xA;Governance Big Data asks what large-scale data can tell us about how governments actually work. The course sits across social science and data science, and it is pitched at graduate students who have already met regression, whether through Analysis of Political Data (70700173) or through a statistics or econometrics course elsewhere.&#xA;Rather than survey techniques for their own sake, each method arrives attached to a governance problem drawn from public administration, judicial transparency, political communication, or social governance.</description>
     </item>
   </channel>
 </rss>

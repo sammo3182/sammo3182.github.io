@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selected Publications on Hu Yue</title>
+    <title>Publications on Hu Yue</title>
     <link>/publication/</link>
-    <description>Recent content in Selected Publications on Hu Yue</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Publications on Hu Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Mouth to Mind</title>
+      <link>/publication/book-from-mouth-to-mind/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/book-from-mouth-to-mind/</guid>
+      <description>Hu, Yue. 2026. From Mouth to Mind: How China&amp;rsquo;s Language Regime Shapes Mass Political Psychology. Contributions to Political Science. Singapore: Springer Nature. ISBN 978-981-95-1848-7 (print), 978-981-95-1849-4 (online).&#xA;About the Book 内容简介 Governments in multilingual states decide which language counts as official, how much room dialects keep in public life, and which foreign language citizens are taught. This book asks what those decisions do to the political minds of the people who live under them.</description>
+    </item>
   </channel>
 </rss>
