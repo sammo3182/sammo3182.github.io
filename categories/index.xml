@@ -6,20 +6,27 @@
     <description>Recent content in Categories on Hu Yue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Methodology</title>
       <link>/categories/methodology/</link>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid>/categories/methodology/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
       <link>/categories/teaching/</link>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid>/categories/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Public Policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/public-policy/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <link>/categories/cleaning/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/categories/cleaning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Public Policy</title>
-      <link>/categories/public-policy/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/categories/public-policy/</guid>
       <description></description>
     </item>
     <item>
